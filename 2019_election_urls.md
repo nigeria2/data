@@ -39,3 +39,63 @@ Source list: https://en.wikipedia.org/wiki/2019_Nigerian_gubernatorial_elections
 | Zamfara | https://en.wikipedia.org/wiki/2019_Zamfara_State_gubernatorial_election |
 
 States without a 2019 gubernatorial election (off-cycle terms): Anambra, Edo, Ekiti, Ondo, Osun. FCT has no governorship.
+
+## Presidential
+
+Source list: https://en.wikipedia.org/wiki/2019_Nigerian_general_election
+
+Wikipedia does **not** have separate per-state articles for the 2019 presidential
+election (unlike 2023 — see `2023_election_urls.md`). There is a single national
+article; state-by-state vote breakdowns live in tables inside it. "2019 Nigerian
+presidential election" redirects to this same page.
+
+| Office | Wikipedia URL |
+| --- | --- |
+| Presidential (national, all states) | https://en.wikipedia.org/wiki/2019_Nigerian_general_election |
+
+## Senate
+
+Source list: https://en.wikipedia.org/wiki/2019_Nigerian_Senate_election
+
+All 36 states + FCT held Senate elections in 2019 (109 senatorial districts, 3 per
+state + 1 for FCT).
+
+| State | Wikipedia URL |
+| --- | --- |
+| Abia | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Abia_State |
+| Adamawa | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Adamawa_State |
+| Akwa Ibom | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Akwa_Ibom_State |
+| Anambra | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Anambra_State |
+| Bauchi | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Bauchi_State |
+| Bayelsa | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Bayelsa_State |
+| Benue | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Benue_State |
+| Borno | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Borno_State |
+| Cross River | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Cross_River_State |
+| Delta | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Delta_State |
+| Ebonyi | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ebonyi_State |
+| Edo | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Edo_State |
+| Ekiti | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ekiti_State |
+| Enugu | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Enugu_State |
+| FCT | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_election_in_the_Federal_Capital_Territory |
+| Gombe | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Gombe_State |
+| Imo | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Imo_State |
+| Jigawa | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Jigawa_State |
+| Kaduna | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kaduna_State |
+| Kano | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kano_State |
+| Katsina | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Katsina_State |
+| Kebbi | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kebbi_State |
+| Kogi | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kogi_State |
+| Kwara | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kwara_State |
+| Lagos | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Lagos_State |
+| Nasarawa | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Nasarawa_State |
+| Niger | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Niger_State |
+| Ogun | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ogun_State |
+| Ondo | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ondo_State |
+| Osun | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Osun_State |
+| Oyo | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Oyo_State |
+| Plateau | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Plateau_State |
+| Rivers | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Rivers_State |
+| Sokoto | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Sokoto_State |
+| Taraba | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Taraba_State |
+| Yobe | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Yobe_State |
+| Zamfara | https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Zamfara_State |
