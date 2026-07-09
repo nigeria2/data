@@ -6,6 +6,7 @@
 !downloaded_source/
 !downloaded_source/**
 downloaded_source/__pycache__/
+downloaded_source/house_2019_pdfs/__pycache__/
 !tables/
 !tables/**
 tables/__pycache__/
