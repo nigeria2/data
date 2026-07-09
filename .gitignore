@@ -3,3 +3,6 @@
 !README.md
 !2019_election_urls.md
 !2023_election_urls.md
+!downloaded_source/
+!downloaded_source/**
+downloaded_source/__pycache__/

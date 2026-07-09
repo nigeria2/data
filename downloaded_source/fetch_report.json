@@ -1,0 +1,1742 @@
+[
+  {
+    "label": "Abia",
+    "url": "https://en.wikipedia.org/wiki/2019_Abia_State_gubernatorial_election",
+    "file": "2019_Abia_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Abia State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Adamawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Adamawa_State_gubernatorial_election",
+    "file": "2019_Adamawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Adamawa State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Akwa Ibom",
+    "url": "https://en.wikipedia.org/wiki/2019_Akwa_Ibom_State_gubernatorial_election",
+    "file": "2019_Akwa_Ibom_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Akwa Ibom State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Bauchi",
+    "url": "https://en.wikipedia.org/wiki/2019_Bauchi_State_gubernatorial_election",
+    "file": "2019_Bauchi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Bauchi State gubernatorial election - Wikipedia",
+    "tables": 1
+  },
+  {
+    "label": "Bayelsa",
+    "url": "https://en.wikipedia.org/wiki/2019_Bayelsa_State_gubernatorial_election",
+    "file": "2019_Bayelsa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Bayelsa State gubernatorial election - Wikipedia",
+    "tables": 7
+  },
+  {
+    "label": "Benue",
+    "url": "https://en.wikipedia.org/wiki/2019_Benue_State_gubernatorial_election",
+    "file": "2019_Benue_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Benue State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Borno",
+    "url": "https://en.wikipedia.org/wiki/2019_Borno_State_gubernatorial_election",
+    "file": "2019_Borno_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Borno State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Cross River",
+    "url": "https://en.wikipedia.org/wiki/2019_Cross_River_State_gubernatorial_election",
+    "file": "2019_Cross_River_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Cross River State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Delta",
+    "url": "https://en.wikipedia.org/wiki/2019_Delta_State_gubernatorial_election",
+    "file": "2019_Delta_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Delta State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ebonyi",
+    "url": "https://en.wikipedia.org/wiki/2019_Ebonyi_State_gubernatorial_election",
+    "file": "2019_Ebonyi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Ebonyi State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Enugu",
+    "url": "https://en.wikipedia.org/wiki/2019_Enugu_State_gubernatorial_election",
+    "file": "2019_Enugu_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Enugu State gubernatorial election - Wikipedia",
+    "tables": 4
+  },
+  {
+    "label": "Gombe",
+    "url": "https://en.wikipedia.org/wiki/2019_Gombe_State_gubernatorial_election",
+    "file": "2019_Gombe_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Gombe State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Imo",
+    "url": "https://en.wikipedia.org/wiki/2019_Imo_State_gubernatorial_election",
+    "file": "2019_Imo_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Imo State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Jigawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Jigawa_State_gubernatorial_election",
+    "file": "2019_Jigawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Jigawa State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kaduna",
+    "url": "https://en.wikipedia.org/wiki/2019_Kaduna_State_gubernatorial_election",
+    "file": "2019_Kaduna_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Kaduna State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kano",
+    "url": "https://en.wikipedia.org/wiki/2019_Kano_State_gubernatorial_election",
+    "file": "2019_Kano_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Kano State gubernatorial election - Wikipedia",
+    "tables": 3
+  },
+  {
+    "label": "Katsina",
+    "url": "https://en.wikipedia.org/wiki/2019_Katsina_State_gubernatorial_election",
+    "file": "2019_Katsina_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Katsina State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kebbi",
+    "url": "https://en.wikipedia.org/wiki/2019_Kebbi_State_gubernatorial_election",
+    "file": "2019_Kebbi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Kebbi State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kogi",
+    "url": "https://en.wikipedia.org/wiki/2019_Kogi_State_gubernatorial_election",
+    "file": "2019_Kogi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Kogi State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kwara",
+    "url": "https://en.wikipedia.org/wiki/2019_Kwara_State_gubernatorial_election",
+    "file": "2019_Kwara_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Kwara State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Lagos",
+    "url": "https://en.wikipedia.org/wiki/2019_Lagos_State_gubernatorial_election",
+    "file": "2019_Lagos_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Lagos State gubernatorial election - Wikipedia",
+    "tables": 4
+  },
+  {
+    "label": "Nasarawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Nasarawa_State_gubernatorial_election",
+    "file": "2019_Nasarawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nasarawa State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Niger",
+    "url": "https://en.wikipedia.org/wiki/2019_Niger_State_gubernatorial_election",
+    "file": "2019_Niger_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Niger State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ogun",
+    "url": "https://en.wikipedia.org/wiki/2019_Ogun_State_gubernatorial_election",
+    "file": "2019_Ogun_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Ogun State gubernatorial election - Wikipedia",
+    "tables": 4
+  },
+  {
+    "label": "Oyo",
+    "url": "https://en.wikipedia.org/wiki/2019_Oyo_State_gubernatorial_election",
+    "file": "2019_Oyo_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Oyo State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Plateau",
+    "url": "https://en.wikipedia.org/wiki/2019_Plateau_State_gubernatorial_election",
+    "file": "2019_Plateau_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Plateau State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Rivers",
+    "url": "https://en.wikipedia.org/wiki/2019_Rivers_State_gubernatorial_election",
+    "file": "2019_Rivers_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Rivers State gubernatorial election - Wikipedia",
+    "tables": 3
+  },
+  {
+    "label": "Sokoto",
+    "url": "https://en.wikipedia.org/wiki/2019_Sokoto_State_gubernatorial_election",
+    "file": "2019_Sokoto_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Sokoto State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Taraba",
+    "url": "https://en.wikipedia.org/wiki/2019_Taraba_State_gubernatorial_election",
+    "file": "2019_Taraba_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Taraba State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Yobe",
+    "url": "https://en.wikipedia.org/wiki/2019_Yobe_State_gubernatorial_election",
+    "file": "2019_Yobe_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Yobe State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Zamfara",
+    "url": "https://en.wikipedia.org/wiki/2019_Zamfara_State_gubernatorial_election",
+    "file": "2019_Zamfara_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Zamfara State gubernatorial election - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Presidential (national, all states)",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election",
+    "file": "2019_Nigerian_general_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian general election - Wikipedia",
+    "tables": 15
+  },
+  {
+    "label": "Abia",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Abia_State",
+    "file": "2019_Nigerian_Senate_elections_in_Abia_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Abia State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Adamawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Adamawa_State",
+    "file": "2019_Nigerian_Senate_elections_in_Adamawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Adamawa State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Akwa Ibom",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Akwa_Ibom_State",
+    "file": "2019_Nigerian_Senate_elections_in_Akwa_Ibom_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Akwa Ibom State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Anambra",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Anambra_State",
+    "file": "2019_Nigerian_Senate_elections_in_Anambra_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Anambra State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Bauchi",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Bauchi_State",
+    "file": "2019_Nigerian_Senate_elections_in_Bauchi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Bauchi State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Bayelsa",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Bayelsa_State",
+    "file": "2019_Nigerian_Senate_elections_in_Bayelsa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Bayelsa State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Benue",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Benue_State",
+    "file": "2019_Nigerian_Senate_elections_in_Benue_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Benue State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Borno",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Borno_State",
+    "file": "2019_Nigerian_Senate_elections_in_Borno_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Borno State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Cross River",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Cross_River_State",
+    "file": "2019_Nigerian_Senate_elections_in_Cross_River_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Cross River State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Delta",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Delta_State",
+    "file": "2019_Nigerian_Senate_elections_in_Delta_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Delta State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ebonyi",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ebonyi_State",
+    "file": "2019_Nigerian_Senate_elections_in_Ebonyi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Ebonyi State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Edo",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Edo_State",
+    "file": "2019_Nigerian_Senate_elections_in_Edo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Edo State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ekiti",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ekiti_State",
+    "file": "2019_Nigerian_Senate_elections_in_Ekiti_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Ekiti State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Enugu",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Enugu_State",
+    "file": "2019_Nigerian_Senate_elections_in_Enugu_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Enugu State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "FCT",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_election_in_the_Federal_Capital_Territory",
+    "file": "2019_Nigerian_Senate_election_in_the_Federal_Capital_Territory.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate election in the Federal Capital Territory - Wikipedia",
+    "tables": 3
+  },
+  {
+    "label": "Gombe",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Gombe_State",
+    "file": "2019_Nigerian_Senate_elections_in_Gombe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Gombe State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Imo",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Imo_State",
+    "file": "2019_Nigerian_Senate_elections_in_Imo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Imo State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Jigawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Jigawa_State",
+    "file": "2019_Nigerian_Senate_elections_in_Jigawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Jigawa State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kaduna",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kaduna_State",
+    "file": "2019_Nigerian_Senate_elections_in_Kaduna_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Kaduna State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kano",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kano_State",
+    "file": "2019_Nigerian_Senate_elections_in_Kano_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Kano State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Katsina",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Katsina_State",
+    "file": "2019_Nigerian_Senate_elections_in_Katsina_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Katsina State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kebbi",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kebbi_State",
+    "file": "2019_Nigerian_Senate_elections_in_Kebbi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Kebbi State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kogi",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kogi_State",
+    "file": "2019_Nigerian_Senate_elections_in_Kogi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Kogi State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Kwara",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Kwara_State",
+    "file": "2019_Nigerian_Senate_elections_in_Kwara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Kwara State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Lagos",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Lagos_State",
+    "file": "2019_Nigerian_Senate_elections_in_Lagos_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Lagos State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Nasarawa",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Nasarawa_State",
+    "file": "2019_Nigerian_Senate_elections_in_Nasarawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Nasarawa State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Niger",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Niger_State",
+    "file": "2019_Nigerian_Senate_elections_in_Niger_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Niger State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ogun",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ogun_State",
+    "file": "2019_Nigerian_Senate_elections_in_Ogun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Ogun State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Ondo",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Ondo_State",
+    "file": "2019_Nigerian_Senate_elections_in_Ondo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Ondo State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Osun",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Osun_State",
+    "file": "2019_Nigerian_Senate_elections_in_Osun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Osun State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Oyo",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Oyo_State",
+    "file": "2019_Nigerian_Senate_elections_in_Oyo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Oyo State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Plateau",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Plateau_State",
+    "file": "2019_Nigerian_Senate_elections_in_Plateau_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Plateau State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Rivers",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Rivers_State",
+    "file": "2019_Nigerian_Senate_elections_in_Rivers_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Rivers State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Sokoto",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Sokoto_State",
+    "file": "2019_Nigerian_Senate_elections_in_Sokoto_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Sokoto State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Taraba",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Taraba_State",
+    "file": "2019_Nigerian_Senate_elections_in_Taraba_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Taraba State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Yobe",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Yobe_State",
+    "file": "2019_Nigerian_Senate_elections_in_Yobe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Yobe State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Zamfara",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_elections_in_Zamfara_State",
+    "file": "2019_Nigerian_Senate_elections_in_Zamfara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2019 Nigerian Senate elections in Zamfara State - Wikipedia",
+    "tables": 5
+  },
+  {
+    "label": "Abia",
+    "url": "https://en.wikipedia.org/wiki/2023_Abia_State_gubernatorial_election",
+    "file": "2023_Abia_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Abia State gubernatorial election - Wikipedia",
+    "tables": 13
+  },
+  {
+    "label": "Adamawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Adamawa_State_gubernatorial_election",
+    "file": "2023_Adamawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Adamawa State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Akwa Ibom",
+    "url": "https://en.wikipedia.org/wiki/2023_Akwa_Ibom_State_gubernatorial_election",
+    "file": "2023_Akwa_Ibom_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Akwa Ibom State gubernatorial election - Wikipedia",
+    "tables": 12
+  },
+  {
+    "label": "Bauchi",
+    "url": "https://en.wikipedia.org/wiki/2023_Bauchi_State_gubernatorial_election",
+    "file": "2023_Bauchi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Bauchi State gubernatorial election - Wikipedia",
+    "tables": 14
+  },
+  {
+    "label": "Bayelsa",
+    "url": "https://en.wikipedia.org/wiki/2023_Bayelsa_State_gubernatorial_election",
+    "file": "2023_Bayelsa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Bayelsa State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Benue",
+    "url": "https://en.wikipedia.org/wiki/2023_Benue_State_gubernatorial_election",
+    "file": "2023_Benue_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Benue State gubernatorial election - Wikipedia",
+    "tables": 12
+  },
+  {
+    "label": "Borno",
+    "url": "https://en.wikipedia.org/wiki/2023_Borno_State_gubernatorial_election",
+    "file": "2023_Borno_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Borno State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Cross River",
+    "url": "https://en.wikipedia.org/wiki/2023_Cross_River_State_gubernatorial_election",
+    "file": "2023_Cross_River_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Cross River State gubernatorial election - Wikipedia",
+    "tables": 13
+  },
+  {
+    "label": "Delta",
+    "url": "https://en.wikipedia.org/wiki/2023_Delta_State_gubernatorial_election",
+    "file": "2023_Delta_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Delta State gubernatorial election - Wikipedia",
+    "tables": 13
+  },
+  {
+    "label": "Ebonyi",
+    "url": "https://en.wikipedia.org/wiki/2023_Ebonyi_State_gubernatorial_election",
+    "file": "2023_Ebonyi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Ebonyi State gubernatorial election - Wikipedia",
+    "tables": 13
+  },
+  {
+    "label": "Enugu",
+    "url": "https://en.wikipedia.org/wiki/2023_Enugu_State_gubernatorial_election",
+    "file": "2023_Enugu_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Enugu State gubernatorial election - Wikipedia",
+    "tables": 14
+  },
+  {
+    "label": "Gombe",
+    "url": "https://en.wikipedia.org/wiki/2023_Gombe_State_gubernatorial_election",
+    "file": "2023_Gombe_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Gombe State gubernatorial election - Wikipedia",
+    "tables": 13
+  },
+  {
+    "label": "Imo",
+    "url": "https://en.wikipedia.org/wiki/2023_Imo_State_gubernatorial_election",
+    "file": "2023_Imo_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Imo State gubernatorial election - Wikipedia",
+    "tables": 7
+  },
+  {
+    "label": "Jigawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Jigawa_State_gubernatorial_election",
+    "file": "2023_Jigawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Jigawa State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Kaduna",
+    "url": "https://en.wikipedia.org/wiki/2023_Kaduna_State_gubernatorial_election",
+    "file": "2023_Kaduna_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Kaduna State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Kano",
+    "url": "https://en.wikipedia.org/wiki/2023_Kano_State_gubernatorial_election",
+    "file": "2023_Kano_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Kano State gubernatorial election - Wikipedia",
+    "tables": 12
+  },
+  {
+    "label": "Katsina",
+    "url": "https://en.wikipedia.org/wiki/2023_Katsina_State_gubernatorial_election",
+    "file": "2023_Katsina_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Katsina State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Kebbi",
+    "url": "https://en.wikipedia.org/wiki/2023_Kebbi_State_gubernatorial_election",
+    "file": "2023_Kebbi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Kebbi State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Kogi",
+    "url": "https://en.wikipedia.org/wiki/2023_Kogi_State_gubernatorial_election",
+    "file": "2023_Kogi_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Kogi State gubernatorial election - Wikipedia",
+    "tables": 7
+  },
+  {
+    "label": "Kwara",
+    "url": "https://en.wikipedia.org/wiki/2023_Kwara_State_gubernatorial_election",
+    "file": "2023_Kwara_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Kwara State gubernatorial election - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Lagos",
+    "url": "https://en.wikipedia.org/wiki/2023_Lagos_State_gubernatorial_election",
+    "file": "2023_Lagos_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Lagos State gubernatorial election - Wikipedia",
+    "tables": 12
+  },
+  {
+    "label": "Nasarawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nasarawa_State_gubernatorial_election",
+    "file": "2023_Nasarawa_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nasarawa State gubernatorial election - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Niger",
+    "url": "https://en.wikipedia.org/wiki/2023_Niger_State_gubernatorial_election",
+    "file": "2023_Niger_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Niger State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Ogun",
+    "url": "https://en.wikipedia.org/wiki/2023_Ogun_State_gubernatorial_election",
+    "file": "2023_Ogun_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Ogun State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Oyo",
+    "url": "https://en.wikipedia.org/wiki/2023_Oyo_State_gubernatorial_election",
+    "file": "2023_Oyo_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Oyo State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Plateau",
+    "url": "https://en.wikipedia.org/wiki/2023_Plateau_State_gubernatorial_election",
+    "file": "2023_Plateau_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Plateau State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Rivers",
+    "url": "https://en.wikipedia.org/wiki/2023_Rivers_State_gubernatorial_election",
+    "file": "2023_Rivers_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Rivers State gubernatorial election - Wikipedia",
+    "tables": 12
+  },
+  {
+    "label": "Sokoto",
+    "url": "https://en.wikipedia.org/wiki/2023_Sokoto_State_gubernatorial_election",
+    "file": "2023_Sokoto_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Sokoto State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Taraba",
+    "url": "https://en.wikipedia.org/wiki/2023_Taraba_State_gubernatorial_election",
+    "file": "2023_Taraba_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Taraba State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Yobe",
+    "url": "https://en.wikipedia.org/wiki/2023_Yobe_State_gubernatorial_election",
+    "file": "2023_Yobe_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Yobe State gubernatorial election - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Zamfara",
+    "url": "https://en.wikipedia.org/wiki/2023_Zamfara_State_gubernatorial_election",
+    "file": "2023_Zamfara_State_gubernatorial_election.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Zamfara State gubernatorial election - Wikipedia",
+    "tables": 11
+  },
+  {
+    "label": "Abia",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Abia_State",
+    "file": "2023_Nigerian_presidential_election_in_Abia_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Abia State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Adamawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Adamawa_State",
+    "file": "2023_Nigerian_presidential_election_in_Adamawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Adamawa State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Akwa Ibom",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Akwa_Ibom_State",
+    "file": "2023_Nigerian_presidential_election_in_Akwa_Ibom_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Akwa Ibom State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Anambra",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Anambra_State",
+    "file": "2023_Nigerian_presidential_election_in_Anambra_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Anambra State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Bauchi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Bauchi_State",
+    "file": "2023_Nigerian_presidential_election_in_Bauchi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Bauchi State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Bayelsa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Bayelsa_State",
+    "file": "2023_Nigerian_presidential_election_in_Bayelsa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Bayelsa State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Benue",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Benue_State",
+    "file": "2023_Nigerian_presidential_election_in_Benue_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Benue State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Borno",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Borno_State",
+    "file": "2023_Nigerian_presidential_election_in_Borno_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Borno State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Cross River",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Cross_River_State",
+    "file": "2023_Nigerian_presidential_election_in_Cross_River_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Cross River State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Delta",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Delta_State",
+    "file": "2023_Nigerian_presidential_election_in_Delta_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Delta State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Ebonyi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Ebonyi_State",
+    "file": "2023_Nigerian_presidential_election_in_Ebonyi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Ebonyi State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Edo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Edo_State",
+    "file": "2023_Nigerian_presidential_election_in_Edo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Edo State - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Ekiti",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Ekiti_State",
+    "file": "2023_Nigerian_presidential_election_in_Ekiti_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Ekiti State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Enugu",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Enugu_State",
+    "file": "2023_Nigerian_presidential_election_in_Enugu_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Enugu State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "FCT",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_the_Federal_Capital_Territory",
+    "file": "2023_Nigerian_presidential_election_in_the_Federal_Capital_Territory.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in the Federal Capital Territory - Wikipedia",
+    "tables": 8
+  },
+  {
+    "label": "Gombe",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Gombe_State",
+    "file": "2023_Nigerian_presidential_election_in_Gombe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Gombe State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Imo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Imo_State",
+    "file": "2023_Nigerian_presidential_election_in_Imo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Imo State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Jigawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Jigawa_State",
+    "file": "2023_Nigerian_presidential_election_in_Jigawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Jigawa State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Kaduna",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Kaduna_State",
+    "file": "2023_Nigerian_presidential_election_in_Kaduna_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Kaduna State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Kano",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Kano_State",
+    "file": "2023_Nigerian_presidential_election_in_Kano_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Kano State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Katsina",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Katsina_State",
+    "file": "2023_Nigerian_presidential_election_in_Katsina_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Katsina State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Kebbi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Kebbi_State",
+    "file": "2023_Nigerian_presidential_election_in_Kebbi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Kebbi State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Kogi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Kogi_State",
+    "file": "2023_Nigerian_presidential_election_in_Kogi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Kogi State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Kwara",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Kwara_State",
+    "file": "2023_Nigerian_presidential_election_in_Kwara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Kwara State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Lagos",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Lagos_State",
+    "file": "2023_Nigerian_presidential_election_in_Lagos_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Lagos State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Nasarawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Nasarawa_State",
+    "file": "2023_Nigerian_presidential_election_in_Nasarawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Nasarawa State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Niger",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Niger_State",
+    "file": "2023_Nigerian_presidential_election_in_Niger_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Niger State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Ogun",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Ogun_State",
+    "file": "2023_Nigerian_presidential_election_in_Ogun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Ogun State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Ondo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Ondo_State",
+    "file": "2023_Nigerian_presidential_election_in_Ondo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Ondo State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Osun",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Osun_State",
+    "file": "2023_Nigerian_presidential_election_in_Osun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Osun State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Oyo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Oyo_State",
+    "file": "2023_Nigerian_presidential_election_in_Oyo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Oyo State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Plateau",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Plateau_State",
+    "file": "2023_Nigerian_presidential_election_in_Plateau_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Plateau State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Rivers",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Rivers_State",
+    "file": "2023_Nigerian_presidential_election_in_Rivers_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Rivers State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Sokoto",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Sokoto_State",
+    "file": "2023_Nigerian_presidential_election_in_Sokoto_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Sokoto State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Taraba",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Taraba_State",
+    "file": "2023_Nigerian_presidential_election_in_Taraba_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Taraba State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Yobe",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Yobe_State",
+    "file": "2023_Nigerian_presidential_election_in_Yobe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Yobe State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Zamfara",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election_in_Zamfara_State",
+    "file": "2023_Nigerian_presidential_election_in_Zamfara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian presidential election in Zamfara State - Wikipedia",
+    "tables": 9
+  },
+  {
+    "label": "Abia",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Abia_State",
+    "file": "2023_Nigerian_Senate_elections_in_Abia_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Abia State - Wikipedia",
+    "tables": 23
+  },
+  {
+    "label": "Adamawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Adamawa_State",
+    "file": "2023_Nigerian_Senate_elections_in_Adamawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Adamawa State - Wikipedia",
+    "tables": 28
+  },
+  {
+    "label": "Akwa Ibom",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Akwa_Ibom_State",
+    "file": "2023_Nigerian_Senate_elections_in_Akwa_Ibom_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Akwa Ibom State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Anambra",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Anambra_State",
+    "file": "2023_Nigerian_Senate_elections_in_Anambra_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Anambra State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Bauchi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Bauchi_State",
+    "file": "2023_Nigerian_Senate_elections_in_Bauchi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Bauchi State - Wikipedia",
+    "tables": 23
+  },
+  {
+    "label": "Bayelsa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Bayelsa_State",
+    "file": "2023_Nigerian_Senate_elections_in_Bayelsa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Bayelsa State - Wikipedia",
+    "tables": 22
+  },
+  {
+    "label": "Benue",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Benue_State",
+    "file": "2023_Nigerian_Senate_elections_in_Benue_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Benue State - Wikipedia",
+    "tables": 20
+  },
+  {
+    "label": "Borno",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Borno_State",
+    "file": "2023_Nigerian_Senate_elections_in_Borno_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Borno State - Wikipedia",
+    "tables": 19
+  },
+  {
+    "label": "Cross River",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Cross_River_State",
+    "file": "2023_Nigerian_Senate_elections_in_Cross_River_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Cross River State - Wikipedia",
+    "tables": 23
+  },
+  {
+    "label": "Delta",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Delta_State",
+    "file": "2023_Nigerian_Senate_elections_in_Delta_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Delta State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Ebonyi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Ebonyi_State",
+    "file": "2023_Nigerian_Senate_elections_in_Ebonyi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Ebonyi State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Edo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Edo_State",
+    "file": "2023_Nigerian_Senate_elections_in_Edo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Edo State - Wikipedia",
+    "tables": 25
+  },
+  {
+    "label": "Ekiti",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Ekiti_State",
+    "file": "2023_Nigerian_Senate_elections_in_Ekiti_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Ekiti State - Wikipedia",
+    "tables": 17
+  },
+  {
+    "label": "Enugu",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Enugu_State",
+    "file": "2023_Nigerian_Senate_elections_in_Enugu_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Enugu State - Wikipedia",
+    "tables": 20
+  },
+  {
+    "label": "FCT",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_election_in_the_Federal_Capital_Territory",
+    "file": "2023_Nigerian_Senate_election_in_the_Federal_Capital_Territory.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate election in the Federal Capital Territory - Wikipedia",
+    "tables": 10
+  },
+  {
+    "label": "Gombe",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Gombe_State",
+    "file": "2023_Nigerian_Senate_elections_in_Gombe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Gombe State - Wikipedia",
+    "tables": 22
+  },
+  {
+    "label": "Imo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Imo_State",
+    "file": "2023_Nigerian_Senate_elections_in_Imo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Imo State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Jigawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Jigawa_State",
+    "file": "2023_Nigerian_Senate_elections_in_Jigawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Jigawa State - Wikipedia",
+    "tables": 18
+  },
+  {
+    "label": "Kaduna",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Kaduna_State",
+    "file": "2023_Nigerian_Senate_elections_in_Kaduna_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Kaduna State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Kano",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Kano_State",
+    "file": "2023_Nigerian_Senate_elections_in_Kano_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Kano State - Wikipedia",
+    "tables": 22
+  },
+  {
+    "label": "Katsina",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Katsina_State",
+    "file": "2023_Nigerian_Senate_elections_in_Katsina_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Katsina State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Kebbi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Kebbi_State",
+    "file": "2023_Nigerian_Senate_elections_in_Kebbi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Kebbi State - Wikipedia",
+    "tables": 18
+  },
+  {
+    "label": "Kogi",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Kogi_State",
+    "file": "2023_Nigerian_Senate_elections_in_Kogi_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Kogi State - Wikipedia",
+    "tables": 22
+  },
+  {
+    "label": "Kwara",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Kwara_State",
+    "file": "2023_Nigerian_Senate_elections_in_Kwara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Kwara State - Wikipedia",
+    "tables": 20
+  },
+  {
+    "label": "Lagos",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Lagos_State",
+    "file": "2023_Nigerian_Senate_elections_in_Lagos_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Lagos State - Wikipedia",
+    "tables": 21
+  },
+  {
+    "label": "Nasarawa",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Nasarawa_State",
+    "file": "2023_Nigerian_Senate_elections_in_Nasarawa_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Nasarawa State - Wikipedia",
+    "tables": 20
+  },
+  {
+    "label": "Niger",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Niger_State",
+    "file": "2023_Nigerian_Senate_elections_in_Niger_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Niger State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Ogun",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Ogun_State",
+    "file": "2023_Nigerian_Senate_elections_in_Ogun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Ogun State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Ondo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Ondo_State",
+    "file": "2023_Nigerian_Senate_elections_in_Ondo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Ondo State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Osun",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Osun_State",
+    "file": "2023_Nigerian_Senate_elections_in_Osun_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Osun State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Oyo",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Oyo_State",
+    "file": "2023_Nigerian_Senate_elections_in_Oyo_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Oyo State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Plateau",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Plateau_State",
+    "file": "2023_Nigerian_Senate_elections_in_Plateau_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Plateau State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Rivers",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Rivers_State",
+    "file": "2023_Nigerian_Senate_elections_in_Rivers_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Rivers State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Sokoto",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Sokoto_State",
+    "file": "2023_Nigerian_Senate_elections_in_Sokoto_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Sokoto State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Taraba",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Taraba_State",
+    "file": "2023_Nigerian_Senate_elections_in_Taraba_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Taraba State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Yobe",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Yobe_State",
+    "file": "2023_Nigerian_Senate_elections_in_Yobe_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Yobe State - Wikipedia",
+    "tables": 16
+  },
+  {
+    "label": "Zamfara",
+    "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_elections_in_Zamfara_State",
+    "file": "2023_Nigerian_Senate_elections_in_Zamfara_State.html",
+    "fetched": true,
+    "reason": null,
+    "valid": true,
+    "title": "2023 Nigerian Senate elections in Zamfara State - Wikipedia",
+    "tables": 16
+  }
+]
