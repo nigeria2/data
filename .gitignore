@@ -6,3 +6,6 @@
 !downloaded_source/
 !downloaded_source/**
 downloaded_source/__pycache__/
+!tables/
+!tables/**
+tables/__pycache__/

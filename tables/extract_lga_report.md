@@ -1,0 +1,74 @@
+# LGA-level extraction report
+
+75 senate/national files skipped (out of scope).
+68 file(s) had no usable LGA data.
+
+## Files with no usable LGA data
+- 2019_Abia_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Bauchi_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Cross_River_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Delta_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Enugu_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Imo_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Kaduna_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Kano_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Kwara_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Lagos_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Ogun_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Rivers_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Taraba_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2019_Zamfara_State_gubernatorial_election.html: no LGA-level breakdown table on this page
+- 2023_Abia_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Adamawa_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Akwa_Ibom_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Borno_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Ebonyi_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Imo_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Jigawa_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Kaduna_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Kano_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Kebbi_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Kogi_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Lagos_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nasarawa_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Niger_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Abia_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Adamawa_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Akwa_Ibom_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Anambra_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Bauchi_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Benue_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Borno_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Cross_River_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Delta_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Ebonyi_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Edo_State.html: no LGA-level breakdown table on this page
+- 2023_Nigerian_presidential_election_in_Enugu_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Gombe_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Imo_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Jigawa_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Kaduna_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Kano_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Katsina_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Kebbi_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Kogi_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Kwara_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Nasarawa_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Niger_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Ogun_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Ondo_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Osun_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Oyo_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Plateau_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Rivers_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Sokoto_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Taraba_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Yobe_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Nigerian_presidential_election_in_Zamfara_State.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Ogun_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Oyo_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Plateau_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Rivers_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Sokoto_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Taraba_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)
+- 2023_Yobe_State_gubernatorial_election.html: LGA breakdown table exists but is unfilled ('TBD' placeholders)

@@ -1,0 +1,250 @@
+state,district,candidate,party,votes,percent,source
+FCT,FCT,Angulu Zakari,APC,78905.0,,results_table
+FCT,FCT,Ireti Kingibe,LP,202175.0,,results_table
+FCT,FCT,Philips Tanimu Aduda,PDP,100544.0,,results_table
+Abia,Abia Central,John Godson,ADC,1980.0,1.3,results_table
+Abia,Abia Central,Samuel Onuigbo,APC,7997.0,5.0,results_table
+Abia,Abia Central,Ahamdi Emmanuel Nweke,APGA,4637.0,2.9,results_table
+Abia,Abia Central,Aiyelabegan Abdul,New Nigeria Peoples Party,514.0,0.3,results_table
+Abia,Abia Central,Ibekwe Kennry Chimezie Olekanma,NRM,587.0,3.7,results_table
+Abia,Abia Central,Patrick Nwosu,SDP,1030.0,0.6,results_table
+Abia,Abia Central,Chuku Wachuku,YPP,7395.0,4.7,results_table
+Abia,Abia North,Orji Uzor Kalu,APC,30805.0,,results_table
+Abia,Abia North,Nnamdi Iro Oji,LP,27540.0,,results_table
+Abia,Abia North,Mao Ohuabunwa,PDP,15175.0,,results_table
+Abia,Abia South,Enyinnaya Abaribe,APGA,49693.0,,results_table
+Abia,Abia South,Chinedu Onyeizu,LP,43903.0,,results_table
+Abia,Abia South,Okezie Ikpeazu,PDP,28422.0,,results_table
+Adamawa,Adamawa Central,Abdul-Aziz Nyako,APC,,,winner_only
+Adamawa,Adamawa Central,Ahmadu Hamman,NNPP,,,winner_only
+Adamawa,Adamawa Central,Aminu Iya Abbas,PDP,,,winner_only
+Adamawa,Adamawa North,Ishaku Elisha Abbo,APC,,,winner_only
+Adamawa,Adamawa North,Abdullahi Dauda Belel,NNPP,,,winner_only
+Adamawa,Adamawa North,Amos Yohana,PDP,,,winner_only
+Adamawa,Adamawa South,Adamu Ismaila Numan,APC,,,winner_only
+Adamawa,Adamawa South,Binos Dauda Yaroe,PDP,,,winner_only
+Akwa Ibom,Akwa Ibom North-East,Ndem Ndem,APC,,,winner_only
+Akwa Ibom,Akwa Ibom North-East,Aniekan Bassey,PDP,,,winner_only
+Akwa Ibom,Akwa Ibom North-West,Godswill Akpabio,APC,,,winner_only
+Akwa Ibom,Akwa Ibom North-West,Emmanuel Enoidem,PDP,,,winner_only
+Akwa Ibom,Akwa Ibom South,Martins Udo-Inyang,APC,,,winner_only
+Akwa Ibom,Akwa Ibom South,Ekong Sampson,PDP,,,winner_only
+Anambra,Anambra Central,Kodilichukwu Okelekwe,APC,,,winner_only
+Anambra,Anambra Central,Dozie Nwankwo,APGA,,,winner_only
+Anambra,Anambra Central,Victor Umeh,LP,,,winner_only
+Anambra,Anambra Central,Uche Ekwunife,PDP,,,winner_only
+Anambra,Anambra North,Ifeyinwa Anazonwu,APC,,,winner_only
+Anambra,Anambra North,Ebelechukwu Obiano,APGA,,,winner_only
+Anambra,Anambra North,Tony Nwoye,LP,,,winner_only
+Anambra,Anambra North,Stella Oduah,PDP,,,winner_only
+Anambra,Anambra South,Chukwuma Michael Umeoji,APC,,,winner_only
+Anambra,Anambra South,TBD,APGA,,,winner_only
+Anambra,Anambra South,Obinna Uzoh,LP,,,winner_only
+Anambra,Anambra South,Chris Uba,PDP,,,winner_only
+Anambra,Anambra South,Ifeanyi Ubah,YPP,,,winner_only
+Bauchi,Bauchi Central,Uba Ahmed Nana,APC,84621.0,,results_table
+Bauchi,Bauchi Central,Abdul Ahmed Ningi,PDP,104878.0,,results_table
+Bauchi,Bauchi North,Siraj Ibrahim Tanko Muhammad,APC,100246.0,,results_table
+Bauchi,Bauchi North,Sama'ila Dahuwa,PDP,102043.0,,results_table
+Bauchi,Bauchi South,Yahaya Idris,ADP,1059.0,,results_table
+Bauchi,Bauchi South,Idris Hassan,APP,951.0,,results_table
+Bauchi,Bauchi South,Naziru Dahiru Usman,ADC,1020.0,,results_table
+Bauchi,Bauchi South,Shehu Buba Umar,APC,175505.0,,results_table
+Bauchi,Bauchi South,Muhammed Chindo,APGA,1075.0,,results_table
+Bauchi,Bauchi South,Sani Ahmad,LP,7130.0,,results_table
+Bauchi,Bauchi South,Lawal Yahaya Gumau,New Nigeria Peoples Party,53739.0,,results_table
+Bauchi,Bauchi South,Dahiru Garba,PDP,165727.0,,results_table
+Bayelsa,Bayelsa Central,Timipa Tiwei Orunimighe,APC,,,winner_only
+Bayelsa,Bayelsa Central,Kombowei Benson,PDP,,,winner_only
+Bayelsa,Bayelsa East,Biobarakuma Degi,APC,,,winner_only
+Bayelsa,Bayelsa East,Benson Agadaga,PDP,,,winner_only
+Bayelsa,Bayelsa West,Wilson Ayakpo Dauyegha,APC,,,winner_only
+Bayelsa,Bayelsa West,Henry Seriake Dickson,PDP,,,winner_only
+Benue,Benue North-East,Emmanuel Memga Udende,APC,,,winner_only
+Benue,Benue North-East,Gabriel Suswam,PDP,,,winner_only
+Benue,Benue North-West,Titus Zam,APC,,,winner_only
+Benue,Benue North-West,Samuel Ortom,PDP,,,winner_only
+Benue,Benue South,Daniel Onjeh,APC,,,winner_only
+Benue,Benue South,Patrick Abba Moro,PDP,,,winner_only
+Borno,Borno Central,Shehu Lawan,APC,,,winner_only
+Borno,Borno Central,Mohammed Umara Kumalia,PDP,,,winner_only
+Borno,Borno North,Mohammed Tahir Monguno,APC,,,winner_only
+Borno,Borno North,Isa Lawan,PDP,,,winner_only
+Borno,Borno South,Mohammed Ali Ndume,APC,,,winner_only
+Borno,Borno South,Kudla Milinda Satumari,PDP,,,winner_only
+Cross River,Cross River Central,Bassey Ewa,PDP,,,winner_only
+Cross River,Cross River North,Benedict Ayade,APC,,,winner_only
+Cross River,Cross River North,Agom Jarigbe,PDP,,,winner_only
+Cross River,Cross River South,Asuquo Ekpenyong,APC,,,winner_only
+Cross River,Cross River South,Ekpo Okon,PDP,,,winner_only
+Delta,Delta Central,Ede Dafinone,APC,,,winner_only
+Delta,Delta Central,Ighoyota Amori,PDP,,,winner_only
+Delta,Delta North,Peter Nwaoboshi,APC,,,winner_only
+Delta,Delta North,Ned Nwoko,PDP,,,winner_only
+Delta,Delta South,Joel-Onowakpo Thomas,APC,,,winner_only
+Delta,Delta South,Michael Diden,PDP,,,winner_only
+Ebonyi,Ebonyi Central,Kenneth Eze,APC,,,winner_only
+Ebonyi,Ebonyi Central,Lazarus Ogbe,PDP,,,winner_only
+Ebonyi,Ebonyi North,Onyekachi Nwaebonyi,APC,,,winner_only
+Ebonyi,Ebonyi North,Sam Egwu,PDP,,,winner_only
+Ebonyi,Ebonyi South,Dave Umahi,APC,,,winner_only
+Ebonyi,Ebonyi South,Ifeanyi Eleje,APGA,,,winner_only
+Ebonyi,Ebonyi South,Linus Abaa Okorie,LP,,,winner_only
+Ebonyi,Ebonyi South,Michael Ama Nnachi,PDP,,,winner_only
+Edo,Edo Central,Monday Okpebholo,APC,,,winner_only
+Edo,Edo Central,Clifford Ordia,PDP,,,winner_only
+Edo,Edo North,Adams Oshiomhole,APC,,,winner_only
+Edo,Edo South,Valentine Asuen,APC,,,winner_only
+Edo,Edo South,Neda Imasuen,LP,,,winner_only
+Edo,Edo South,Matthew Iduoriyekemwen,PDP,,,winner_only
+Ekiti,Ekiti Central,Michael Opeyemi Bamidele,APC,,,winner_only
+Ekiti,Ekiti Central,Lateef Ajijola,PDP,,,winner_only
+Ekiti,Ekiti North,Cyril Fasuyi,APC,,,winner_only
+Ekiti,Ekiti North,Funso Ayeni,PDP,,,winner_only
+Ekiti,Ekiti South,Raphael Adeyemi Adaramodu,APC,,,winner_only
+Ekiti,Ekiti South,Abiodun Olujimi,PDP,,,winner_only
+Enugu,Enugu East,Adaku Ogbu-Aguocha,APC,,,winner_only
+Enugu,Enugu East,Chimaroke Nnamani,PDP,,,winner_only
+Enugu,Enugu East,Kelvin Chukwu,LP,,,winner_only
+Enugu,Enugu North,Simon Ejike Eze,APC,,,winner_only
+Enugu,Enugu North,Okechukwu Ezea,LP,,,winner_only
+Enugu,Enugu North,Ifeanyi Ugwuanyi,PDP,,,winner_only
+Enugu,Enugu West,Nicholas Chika Ezeh,APC,,,winner_only
+Enugu,Enugu West,Osita Ngwu,PDP,,,winner_only
+Gombe,Gombe Central,Mohammed Danjuma Goje,APC,,,winner_only
+Gombe,Gombe Central,Abubakar Aliyu,PDP,,,winner_only
+Gombe,Gombe North,Sa'idu Ahmed Alkali,APC,,,winner_only
+Gombe,Gombe North,Ibrahim Hassan Dankwambo,PDP,,,winner_only
+Gombe,Gombe South,Joshua M. Lidani,APC,,,winner_only
+Gombe,Gombe South,Anthony Siyako Yaro,PDP,,,winner_only
+Imo,Imo East,Alex Mbata,APC,,,winner_only
+Imo,Imo East,Ezenwa Francis Onyewuchi,LP,,,winner_only
+Imo,Imo East,Uche Onyegucha,PDP,,,winner_only
+Imo,Imo North,Patrick Ndubueze,APC,,,winner_only
+Imo,Imo North,Emmanuel Okewulonu,PDP,,,winner_only
+Imo,Imo West,Osita Izunaso,APC,,,winner_only
+Jigawa,Jigawa North-East,Ahmad Abdulhamid Malam Madori,APC,,,winner_only
+Jigawa,Jigawa North-East,Nuruddeen Muhammad,PDP,,,winner_only
+Jigawa,Jigawa North-West,Babangida Hussaini,APC,,,winner_only
+Jigawa,Jigawa North-West,Ibrahim Saminu Turaki,PDP,,,winner_only
+Jigawa,Jigawa South-West,Mohammed Sabo Nakudu,APC,,,winner_only
+Jigawa,Jigawa South-West,Mustapha Khabeeb,PDP,,,winner_only
+Kaduna,Kaduna Central,Muhammad Sani Abdullahi,APC,,,winner_only
+Kaduna,Kaduna Central,Lawal Adamu Usman,PDP,,,winner_only
+Kaduna,Kaduna North,Suleiman Abdu Kwari,APC,,,winner_only
+Kaduna,Kaduna North,Michael Ayuba,LP,,,winner_only
+Kaduna,Kaduna North,Khalid Mustapha,PDP,,,winner_only
+Kaduna,Kaduna South,Bulus Audu,APC,,,winner_only
+Kano,Kano Central,Abdulkarim Abdulsalam Zaura,APC,,,winner_only
+Kano,Kano Central,Rufai Sani Hanga,NNPP,,,winner_only
+Kano,Kano Central,Laila Buhari,PDP,,,winner_only
+Kano,Kano North,Barau Jibrin,APC,,,winner_only
+Kano,Kano North,Abdullahi Baffa Bichi,NNPP,,,winner_only
+Kano,Kano North,Saidu Ahmad Gwadabe,PDP,,,winner_only
+Kano,Kano South,Kabiru Ibrahim Gaya,APC,,,winner_only
+Kano,Kano South,Suleiman Abdurrahman Kawu Sumaila,NNPP,,,winner_only
+Kano,Kano South,Muhammad Bashir Galadanchi Hussari,PDP,,,winner_only
+Katsina,Katsina Central,Abdul'aziz Musa Yar'adua,APC,,,winner_only
+Katsina,Katsina Central,Sirajo Aminu Makera,PDP,,,winner_only
+Katsina,Katsina North,Nasiru Sani Zangon Daura,APC,,,winner_only
+Katsina,Katsina North,Ahmad Babba Kaita,PDP,,,winner_only
+Katsina,Katsina South,Mohammed Muntari Dandutse,APC,,,winner_only
+Katsina,Katsina South,Babangida Ibrahim,NNPP,,,winner_only
+Katsina,Katsina South,Shehu Garba Matazu,PDP,,,winner_only
+Kebbi,Kebbi Central,Abubakar Atiku Bagudu,APC,,,winner_only
+Kebbi,Kebbi Central,Adamu Aliero,PDP,,,winner_only
+Kebbi,Kebbi North,Hussaini Suleiman Kangiwa,APC,,,winner_only
+Kebbi,Kebbi South,Bala Ibn Na'allah,APC,,,winner_only
+Kebbi,Kebbi South,Garba Musa Maidoki,PDP,,,winner_only
+Kogi,Kogi Central,Abubakar Sadiku Ohere,APC,,,winner_only
+Kogi,Kogi Central,Natasha Akpoti,PDP,,,winner_only
+Kogi,Kogi East,Jibrin Isah,APC,,,winner_only
+Kogi,Kogi East,Victor Alewo Adoji,PDP,,,winner_only
+Kogi,Kogi West,Sunday Karimi,APC,,,winner_only
+Kogi,Kogi West,Tajudeen Yusuf,PDP,,,winner_only
+Kwara,Kwara Central,Saliu Mustapha,APC,,,winner_only
+Kwara,Kwara Central,Bolaji Abdullahi,PDP,,,winner_only
+Kwara,Kwara Central,Ridwanullah Apaokagi,SDP,,,winner_only
+Kwara,Kwara North,Suleiman Sadiq Umar,APC,,,winner_only
+Kwara,Kwara North,Isa Adamu Bawa,PDP,,,winner_only
+Kwara,Kwara South,Lola Ashiru,APC,,,winner_only
+Kwara,Kwara South,Rafiu Adebayo Ibrahim,PDP,,,winner_only
+Lagos,Lagos Central,Wasiu Eshinlokun Sanni,APC,,,winner_only
+Lagos,Lagos Central,Wale Gomez,PDP,,,winner_only
+Lagos,Lagos East,Tokunbo Abiru,APC,,,winner_only
+Lagos,Lagos East,Nicholas Akobada,PDP,,,winner_only
+Lagos,Lagos West,Oluranti Adebule,APC,,,winner_only
+Lagos,Lagos West,Segun Adewale,PDP,,,winner_only
+Nasarawa,Nasarawa North,Danladi Halilu Envulu'Anza,APC,,,winner_only
+Nasarawa,Nasarawa North,Nathaniel Obin Aboki,PDP,,,winner_only
+Nasarawa,Nasarawa North,Godiya Akwashiki,SDP,,,winner_only
+Nasarawa,Nasarawa South,Umaru Tanko Al-Makura,APC,,,winner_only
+Nasarawa,Nasarawa South,Mohammed Ogoshi Onawo,PDP,,,winner_only
+Nasarawa,Nasarawa West,TBD,APC,,,winner_only
+Nasarawa,Nasarawa West,Umar Galadima,PDP,,,winner_only
+Nasarawa,Nasarawa West,Ahmed Aliyu Wadada,SDP,,,winner_only
+Niger,Niger East,Sani Musa,APC,,,winner_only
+Niger,Niger East,Ibrahim Isiyaku,PDP,,,winner_only
+Niger,Niger North,Abubakar Sani Bello,APC,,,winner_only
+Niger,Niger North,Abdullahi Shehu Mohammed,PDP,,,winner_only
+Niger,Niger South,Muhammad Bima Enagi,APC,,,winner_only
+Niger,Niger South,Peter Ndalikali Jiya,PDP,,,winner_only
+Ogun,Ogun Central,Shuaibu Salisu,APC,,,winner_only
+Ogun,Ogun Central,David Olumide Aderinokun,PDP,,,winner_only
+Ogun,Ogun East,Gbenga Daniel,APC,,,winner_only
+Ogun,Ogun East,Dave Oladapo Salako,PDP,,,winner_only
+Ogun,Ogun West,Solomon Olamilekan Adeola,APC,,,winner_only
+Ogun,Ogun West,Ganiyu Adeleke Dada,PDP,,,winner_only
+Ondo,Ondo Central,Adeniyi Adegbonmire,APC,,,winner_only
+Ondo,Ondo Central,Ifedayo Adedipe,PDP,,,winner_only
+Ondo,Ondo North,Jide Ipinsagba,APC,,,winner_only
+Ondo,Ondo North,Adetokunbo Modupe,PDP,,,winner_only
+Ondo,Ondo South,Jimoh Ibrahim,APC,,,winner_only
+Ondo,Ondo South,Agboola Ajayi,PDP,,,winner_only
+Osun,Osun Central,Ajibola Basiru,APC,,,winner_only
+Osun,Osun Central,Olubiyi Fadeyi,PDP,,,winner_only
+Osun,Osun East,Ajibola Famurewa,APC,,,winner_only
+Osun,Osun East,Francis Adenigba Fadahunsi,PDP,,,winner_only
+Osun,Osun West,Raheem Amidu Tadese,APC,,,winner_only
+Osun,Osun West,Lere Oyewumi,PDP,,,winner_only
+Oyo,Oyo Central,Yunus Akintunde,APC,,,winner_only
+Oyo,Oyo Central,Bisi Ilaka,PDP,,,winner_only
+Oyo,Oyo North,Abdulfatai Buhari,APC,,,winner_only
+Oyo,Oyo North,Akinwale Akinwole,PDP,,,winner_only
+Oyo,Oyo South,Sharafadeen Alli,APC,,,winner_only
+Oyo,Oyo South,Joseph Olasunkanmi Tegbe,PDP,,,winner_only
+Plateau,Plateau Central,Diket Plang,APC,,,winner_only
+Plateau,Plateau Central,G. Y. Gotom,PDP,,,winner_only
+Plateau,Plateau North,Chris Giwa,APC,,,winner_only
+Plateau,Plateau North,Simon Mwadkwon,PDP,,,winner_only
+Plateau,Plateau South,Simon Lalong,APC,,,winner_only
+Plateau,Plateau South,Napoleon Bali,PDP,,,winner_only
+Rivers,Rivers East,Bisi Nwankwo,APC,,,winner_only
+Rivers,Rivers East,Allwell Onyeso,PDP,,,winner_only
+Rivers,Rivers South-East,Oji N. Ngofa,APC,,,winner_only
+Rivers,Rivers South-East,Barry Mpigi,PDP,,,winner_only
+Rivers,Rivers West,Asita O. Asita,APC,,,winner_only
+Rivers,Rivers West,Ipalibo Banigo,PDP,,,winner_only
+Sokoto,Sokoto East,Ibrahim Lamido,APC,,,winner_only
+Sokoto,Sokoto East,Shu'aibu Gwanda Gobir,PDP,,,winner_only
+Sokoto,Sokoto North,Aliyu Magatakarda Wamakko,APC,,,winner_only
+Sokoto,Sokoto North,Manir Dan Iya,PDP,,,winner_only
+Sokoto,Sokoto South,Ibrahim Abdullahi Danbaba,APC,,,winner_only
+Sokoto,Sokoto South,Aminu Waziri Tambuwal,PDP,,,winner_only
+Taraba,Taraba Central,Bashir Marafa,APC,,,winner_only
+Taraba,Taraba Central,Haruna Manu,PDP,,,winner_only
+Taraba,Taraba North,Ali Sani Kona,APC,,,winner_only
+Taraba,Taraba North,Shuaibu Isa Lau,PDP,,,winner_only
+Taraba,Taraba South,David Jimkuta,APC,,,winner_only
+Taraba,Taraba South,Darius Dickson Ishaku,PDP,,,winner_only
+Yobe,Yobe East,Ibrahim Gaidam,APC,,,winner_only
+Yobe,Yobe East,Aji Kolomi,PDP,,,winner_only
+Yobe,Yobe North,Ahmad Lawan,APC,,,winner_only
+Yobe,Yobe North,Ilu Bello,PDP,,,winner_only
+Yobe,Yobe South,Ibrahim Mohammed Bomai,APC,,,winner_only
+Yobe,Yobe South,Halilu Abubakar Mazagane,PDP,,,winner_only
+Zamfara,Zamfara Central,Kabir Garba Marafa,APC,,,winner_only
+Zamfara,Zamfara Central,Ikira Aliyu Bilbis,PDP,,,winner_only
+Zamfara,Zamfara North,Bala Mande,PDP,,,winner_only
+Zamfara,Zamfara West,Abdul'aziz Abubakar Yari,APC,,,winner_only
+Zamfara,Zamfara West,Muhammed Bello Sarkin-Fagon,PDP,,,winner_only

@@ -1,0 +1,214 @@
+state,district,candidate,party,votes,percent,source
+FCT,FCT,Philips Tanimu Adada,nan,,,winner_only
+Abia,Abia South,Enyinnaya Abaribe,PDP,53086.0,,results_table
+Abia,Abia South,Chris Nkwota,APC,27998.0,,results_table
+Abia,Abia Central,Theodore Orji,PDP,55461.0,,results_table
+Abia,Abia Central,Nkechi Nwaogu,APC,29860.0,,results_table
+Abia,Abia North,Orji Uzor Kalu,APC,31201.0,,results_table
+Abia,Abia North,Mao Ohuabunwa,PDP,20801.0,,results_table
+Adamawa,Adamawa South,Binos Dauda Yaroe,PDP,144403.0,,results_table
+Adamawa,Adamawa South,Abubakar Ahmad Mdallahyidi,APC,118129.0,,results_table
+Adamawa,Adamawa Central,Aishatu Dahiru Ahmed,APC,188526.0,,results_table
+Adamawa,Adamawa Central,Modibbo Murtala Mohammed,PDP,96530.0,,results_table
+Adamawa,Adamawa North,Ishaku Elisha Abbo,PDP,79337.0,,results_table
+Adamawa,Adamawa North,Binta Garba,APC,63219.0,,results_table
+Akwa Ibom,Akwa Ibom South,Akon Etim Eyakenyi,PDP,122412.0,,results_table
+Akwa Ibom,Akwa Ibom South,Nelson Effiong,APC,44053.0,,results_table
+Akwa Ibom,Akwa Ibom North-East,Bassey Akpan,PDP,147731.0,,results_table
+Akwa Ibom,Akwa Ibom North-East,Bassey Etim,APC,60930.0,,results_table
+Akwa Ibom,Akwa Ibom North-West,Christopher Ekpenyong,PDP,118215.0,,results_table
+Akwa Ibom,Akwa Ibom North-West,Goodswill Akpabio,APC,83158.0,,results_table
+Anambra,Anambra South,Ifeanyi Ubah,YPP,87081.0,,results_table
+Anambra,Anambra South,Chris Ubah,PDP,52462.0,,results_table
+Anambra,Anambra North,Stella Oduah,PDP,113989.0,,results_table
+Anambra,Anambra North,Chinedu Emeka,APGA,59937.0,,results_table
+Anambra,Anambra Central,Uche Ekwunife,PDP,118484.0,,results_table
+Anambra,Anambra Central,Victor Umeh,APC,81429.0,,results_table
+Bauchi,Bauchi South,Lawal Yahaya Gumau,APC,250725.0,,results_table
+Bauchi,Bauchi South,Dahiru Garba,PDP,175527.0,,results_table
+Bauchi,Bauchi Central,Halliru Dauda Jika,APC,128871.0,,results_table
+Bauchi,Bauchi Central,Hammah Issah,PDP,57069.0,,results_table
+Bauchi,Bauchi North,Adamu Bulkachuwa,APC,110631.0,,results_table
+Bauchi,Bauchi North,Suleiman Nazif,PDP,56379.0,,results_table
+Bayelsa,Bayelsa Central,Douye Diri,PDP,83978.0,53.88,results_table
+Bayelsa,Bayelsa Central,Festus Daumiebi,APC,70998.0,45.55,results_table
+Bayelsa,Bayelsa West,Lawrence Ewhrudjakpo,PDP,49912.0,70.92,results_table
+Bayelsa,Bayelsa West,Matthew Karimo,APC,20219.0,28.73,results_table
+Bayelsa,Bayelsa East,Biobarakuma Degi,APC,43303.0,45.71,results_table
+Bayelsa,Bayelsa East,Ipigansi Izagara,PDP,32363.0,34.16,results_table
+Benue,Benue South,Patrick Abba Moro,nan,,,winner_only
+Benue,Bauchi North-East,Gabriel Suswam,nan,,,winner_only
+Benue,Bauchi North-West,Emmanuel Yisa Orker-Jev,nan,,,winner_only
+Borno,Bornu Central,Kashim Shettima,APC,342898.0,80.9,results_table
+Borno,Bornu Central,Muhammed Abba-Aji,PDP,75569.0,17.8,results_table
+Borno,Bornu North,Kyari Abubakar Shaib,APC,76963.0,67.69,results_table
+Borno,Bornu North,Isa Lawan,PDP,36042.0,31.7,results_table
+Borno,Bornu South,Ndume Mohammed Ali,APC,300637.0,75.53,results_table
+Borno,Bornu South,Kudla Milinda Satumari,PDP,84608.0,21.25,results_table
+Cross River,Cross River Central,Ndoma Egba,APC,60298.0,42.61,results_table
+Cross River,Cross River Central,Sandy Ojang Onoh,PDP,80134.0,56.63,results_table
+Cross River,Cross River North,Wabily Nyiam,APC,36129.0,26.23,results_table
+Cross River,Cross River North,Sandy Rose,PDP,100967.0,73.32,results_table
+Cross River,Cross River South,Prince Otu,APC,63250.0,44.5,results_table
+Cross River,Cross River South,Bassey Gershom Henry,PDP,77478.0,36.69,results_table
+Delta,Delta South,James Manager,PDP,257812.0,66.15,results_table
+Delta,Delta South,Emmanuel Uduaghan,APC,125752.0,32.27,results_table
+Delta,Delta Central,Ovie Omo-Agege,APC,111100.0,51.34,results_table
+Delta,Delta Central,Evelyn Omavowan Oboro,PDP,99422.0,45.94,results_table
+Delta,Delta North,Peter Nwaoboshi,PDP,186423.0,82.23,results_table
+Delta,Delta North,Doris Uboh,APC,36350.0,16.03,results_table
+Ebonyi,Ebonyi South,Michael Ama-Nnachi,PDP,103751.0,,results_table
+Ebonyi,Ebonyi South,Prince Nwaeze Onu,APC,19663.0,,results_table
+Ebonyi,Ebonyi Central,Joseph Ogba,PDP,62452.0,,results_table
+Ebonyi,Ebonyi Central,Julius Ucha,APC,46672.0,,results_table
+Ebonyi,Ebonyi North,Sam Egwu,PDP,80711.0,,results_table
+Ebonyi,Ebonyi North,Mathias Adum,APC,38734.0,,results_table
+Edo,Edo Central,Inegbedion John Osagie,APC,49158.0,42.86,results_table
+Edo,Edo Central,Ordia Akhimienmona Clifford,PDP,56048.0,46.36,results_table
+Edo,Edo South,Obahiagbon Patrick,APC,1211957.0,46.9,results_table
+Edo,Edo South,Urghide Mathew Aisagbonriodion,PDP,135588.0,51.03,results_table
+Edo,Edo North,Momoh Abubakar Eshiokpekha,PDP,80752.0,40.44,results_table
+Edo,Edo North,Alimikhena Francis Asekhame,APC,117783.0,58.987,results_table
+Ekiti,Ekiti Central,Michael Bamidele,APC,94279.0,65.36,results_table
+Ekiti,Ekiti Central,Obafemi Adewale,PDP,48707.0,33.76,results_table
+Ekiti,Ekiti North,Adetumbi Olubunmi,APC,60689.0,54.67,results_table
+Ekiti,Ekiti North,Duro Faseyi,PDP,49209.0,44.33,results_table
+Ekiti,Ekiti South,Adebayo Clement Adeyeye,APC,77261.0,58.78,results_table
+Ekiti,Ekiti South,Abiodun Olujimi,PDP,53741.0,40.69,results_table
+Enugu,Enugu West,Ike Ekweremadu,PDP,103751.0,,results_table
+Enugu,Enugu West,Juliet Ibekaku-Nwagwu,APC,19663.0,,results_table
+Enugu,Enugu East,Chimaroke Nnamani,PDP,128853.0,,results_table
+Enugu,Enugu East,Lawrence Ozeh,APC,14225.0,,results_table
+Enugu,Enugu North,Utazi Chukwuka,PDP,146458.0,,results_table
+Enugu,Enugu North,Ogbonna Odo,APC,22229.0,,results_table
+Gombe,Gombe South,Bulus Kilawangs Amos,APC,80549.0,,results_table
+Gombe,Gombe South,Binta Bello,PDP,63312.0,,results_table
+Gombe,Gombe Central,Mohammed Danjuma Goje,APC,110116.0,,results_table
+Gombe,Gombe Central,Abubakar Nono,PDP,39760.0,,results_table
+Gombe,Gombe North,Sa'idu Ahmed Alkali,APC,152546.0,,results_table
+Gombe,Gombe North,Ibrahim Dakwambo,PDP,88016.0,,results_table
+Imo,Imo West,Rochas Okorocha,nan,,,winner_only
+Imo,Imo East,Onyewuchi Francis Ezenwa,nan,,,winner_only
+Imo,Imo North,Benjamin Uwajumogu,nan,,,winner_only
+Jigawa,Jigawa South West,Mohammed Sabo,APC,144403.0,,results_table
+Jigawa,Jigawa South West,Mustapha Sule Lamide,PDP,118129.0,,results_table
+Jigawa,Jigawa North West,Danladi Abdullahi Sankara,APC,286655.0,,results_table
+Jigawa,Jigawa North West,Nasiru Umar Roni,PDP,120314.0,,results_table
+Jigawa,Jigawa North East,Ibrahim Hassan Hadejia,APC,79337.0,,results_table
+Jigawa,Jigawa North East,Binta Garba,PDP,63219.0,,results_table
+Kaduna,Kaduna Central,Sani Uba,APC,355242.0,55.78,results_table
+Kaduna,Kaduna Central,Usman Lawal Adamu,PDP,195497.0,30.7,results_table
+Kaduna,Kaduna North,Kwari Suleiman Abdu,APC,411497.0,67.68,results_table
+Kaduna,Kaduna North,Hunkuyi Othman Suleiman,PDP,181955.0,29.93,results_table
+Kaduna,Kaduna South,Laah Danjuma Tella,PDP,268923.0,64.35,results_table
+Kaduna,Kaduna South,Bala Barnabas Yusuf,APC,133287.0,31.89,results_table
+Kano,Kano Central,Ibrahim Shekarau,APC,506271.0,61.6,results_table
+Kano,Kano Central,Madaki Aliyu Sani,PDP,276768.0,33.68,results_table
+Kano,Kano North,Jibrin I Barau,APC,286419.0,61.37,results_table
+Kano,Kano North,Ahmed Garba Bichi,PDP,155638.0,33.35,results_table
+Kano,Kano South,Kabiru Ibrahim Gaya,APC,319004.0,55.39,results_table
+Kano,Kano South,Abdullahi Sani Rogo,PDP,217520.0,37.77,results_table
+Katsina,Katsina Central,Kabir Barkiya,APC,340800.0,72.42,results_table
+Katsina,Katsina Central,Hamisu Gambo,PDP,124372.0,23.4,results_table
+Katsina,Katsina South,Bello Mandiya,APC,433139.0,72.41,results_table
+Katsina,Katsina South,Shehu Imam,PDP,158081.0,26.43,results_table
+Katsina,Katsina North,Ahmad Babba Kaita,APC,339438.0,70.29,results_table
+Katsina,Katsina North,Usman Mani,PDP,127592.0,26.41,results_table
+Kebbi,Kebbi South,Bala Ibn Na'allah,APC,136287.0,,results_table
+Kebbi,Kebbi South,Benjamin Ezra Dikki,PDP,62733.0,,results_table
+Kebbi,Kebbi Central,Adamu Aliero,APC,232000.0,,results_table
+Kebbi,Kebbi Central,Abubakar Shehu-Abubakar,PDP,75638.0,,results_table
+Kebbi,Kebbi North,Abdullahi Abubakar Yahaya,APC,170624.0,,results_table
+Kebbi,Kebbi North,Usman Bello Suru,PDP,66815.0,,results_table
+Kogi,Kogi West,Smart Adeyemi,APC,88373.0,54.86,results_table
+Kogi,Kogi West,Dino Melaye,PDP,62133.0,38.57,results_table
+Kogi,Kogi Central,Yakubu Oseni,APC,76183.0,52.87,results_table
+Kogi,Kogi Central,Ahmed Ogembe,PDP,18349.0,12.73,results_table
+Kogi,Kogi Central,Natasha Akpoti,SDP,48056.0,33.35,results_table
+Kogi,Kogi East,Jibrin Isah,APC,134189.0,54.5,results_table
+Kogi,Kogi East,Ali Atai Aidoko Usman,PDP,74201.0,30.13,results_table
+Kwara,Kwara Central,Ibrahim Oloriegbe,APC,123808.0,63.15,results_table
+Kwara,Kwara Central,Bukola Saraki,PDP,68994.0,35.19,results_table
+Kwara,Kano North,Suleiman Sadiq Umar,APC,98170.0,73.86,results_table
+Kwara,Kano North,Zakari Mohammed,PDP,33364.0,25.1,results_table
+Kwara,Kwara South,Lola Ashiru,APC,89704.0,65.53,results_table
+Kwara,Kwara South,Rafiu Adebayo Ibrahim,PDP,45176.0,33.0,results_table
+Lagos,Lagos West,Solomon Olamilekan Adeola,APC,323817.0,53.27,results_table
+Lagos,Lagos West,Gbadebo Rhodes-Vivour,PDP,243516.0,40.06,results_table
+Lagos,Lagos Central,Oluremi Tinubu,APC,131725.0,58.03,results_table
+Lagos,Lagos Central,Onitiri David,PDP,89107.0,39.25,results_table
+Lagos,Lagos East,Osinowo Sikiru Adebayo,APC,145839.0,59.21,results_table
+Lagos,Lagos East,Oyefusi Abiodun Adetola,PDP,90354.0,36.69,results_table
+Nasarawa,Nasarawa South,Umaru Tanko Al-Makura,APC,113156.0,,results_table
+Nasarawa,Nasarawa South,Suleiman Adokwe,PDP,104595.0,,results_table
+Nasarawa,Nasarawa West,Abdullahi Adamu,APC,115298.0,,results_table
+Nasarawa,Nasarawa West,Bala Ahmad Aliyu,PDP,39760.0,,results_table
+Nasarawa,Nasarawa North,Godiya Akwashiki,APC,54104.0,,results_table
+Nasarawa,Nasarawa North,John Michael Abdul,PDP,48133.0,,results_table
+Niger,Niger East,Sani Mohammed Musa,APC,229415.0,65.14,results_table
+Niger,Niger East,Ibrahim Isiyaku,PDP,116143.0,32.98,results_table
+Niger,Niger North,Aliyu Sabi Abdullahi,APC,161420.0,65.16,results_table
+Niger,Niger North,Muhammad Sani Duba,PDP,77109.0,32.98,results_table
+Niger,Niger South,Bima Muhammad Enagi,APC,160614.0,61.63,results_table
+Niger,Niger South,Baba Shehu Agaie,PDP,90978.0,34.91,results_table
+Ogun,Ogun East,Ramoni Olalekan Mustapha,APC,85761.0,44.21,results_table
+Ogun,Ogun East,Sosanwo Adeola Ayoola,PDP,83528.0,43.07,results_table
+Ogun,Ogun Central,Ibikunle Amosun,APC,88110.0,48.51,results_table
+Ogun,Ogun Central,Solomon Abiodun Sanyaolu,PDP,33276.0,18.32,results_table
+Ogun,Ogun Central,Titilayo Oseni-Gomez,ADC,37101.0,20.43,results_table
+Ogun,Ogun West,Tolu Odebiyi,APC,56452.0,29.36,results_table
+Ogun,Ogun West,Abiodun Odunjo,PDP,43454.0,22.6,results_table
+Ondo,Ondo Central,Akinyelure Patrick Ayo,PDP,66978.0,33.11,results_table
+Ondo,Ondo Central,Tayo Alasoadura,APC,57828.0,28.59,results_table
+Ondo,Ondo South,Nicholas Tofowomo,PDP,81892.0,42.98,results_table
+Ondo,Ondo South,Yele Omogunwa,APC,55610.0,21.19,results_table
+Ondo,Ondo North,Robert Ajayi Boroffice,APC,53199.0,30.3,results_table
+Ondo,Ondo North,Olusegun Philips-Alonge,PDP,33048.0,18.76,results_table
+Osun,Osun West,Adelere Adeyemi Oriolowo,APC,102157.0,41.38,results_table
+Osun,Osun West,Oyewunmi Kamorudeen Olalere,PDP,97294.0,39.4,results_table
+Osun,Osun Central,Ajibola Basiru,APC,132821.0,54.33,results_table
+Osun,Osun Central,Olaoluwa Ayobami Ganiyu,PDP,106779.0,43.67,results_table
+Osun,Osun East,Francis Adenigba Fadahunsi,PDP,114893.0,50.49,results_table
+Osun,Osun East,Famurewa Israel Ajibola,APC,105720.0,46.47,results_table
+Oyo,Oyo North,Abdulfatai Buhari,APC,107703.0,37.12,results_table
+Oyo,Oyo North,Mulikat Akande-Adeola,PDP,89365.0,30.81,results_table
+Oyo,Oyo Central,Teslim Folarin,APC,91080.0,33.43,results_table
+Oyo,Oyo Central,Bisi Ilaka,PDP,83600.0,30.68,results_table
+Oyo,Oyo South,Kola Balogun,PDP,105720.0,37.55,results_table
+Oyo,Oyo South,Abiola Ajimobi,APC,92218.0,32.76,results_table
+Plateau,Plateau South,Ignatius Datong Longjan,APC,140918.0,,results_table
+Plateau,Plateau South,Kefas Peter Dandam,PDP,132441.0,,results_table
+Plateau,Plateau Central,Hezekiah Ayuba Dimka,APC,149457.0,,results_table
+Plateau,Plateau Central,David Shikfu Parradang,PDP,145048.0,,results_table
+Plateau,Plateau North,Istifanus Gyang,APC,269555.0,,results_table
+Plateau,Plateau North,Rufus Bature,PDP,171233.0,,results_table
+Rivers,Rivers West,Betty Apiafi,PDP,159215.0,,results_table
+Rivers,Rivers West,Obaghama Dighobo,SDP,20139.0,,results_table
+Rivers,Rivers South East,Barry Mpigi,PDP,247182.0,,results_table
+Rivers,Rivers South East,Badey Suage Alexander,A,6155.0,,results_table
+Rivers,Rivers East,George Thompson Sekibo,PDP,283759.0,,results_table
+Rivers,Rivers East,Nwuke Azubuike,A,9852.0,,results_table
+Sokoto,Sokoto North,Aliyu Magatakarda Wamakko,APC,172980.0,,results_table
+Sokoto,Sokoto North,Ahmed Muhammad Maccido,PDP,138922.0,,results_table
+Sokoto,Sokoto South,Shehu Abubakar Tambuwal,APC,134204.0,,results_table
+Sokoto,Sokoto South,Ibrahim Abdullahi Danbaba,PDP,112546.0,,results_table
+Sokoto,Sokoto East,Abdullahi Ibrahim Gobir,APC,170665.0,,results_table
+Sokoto,Sokoto East,Maidaji Salihu,PDP,140322.0,,results_table
+Taraba,Taraba South,Emmanuel Bwacha,PDP,96352.0,,results_table
+Taraba,Taraba South,Bauka Ishaya Gamgum,APC,51921.0,,results_table
+Taraba,Taraba North,Shuaibu Isa Lau,PDP,113580.0,,results_table
+Taraba,Taraba North,Yusuf Ahmed Adamu,APC,111412.0,,results_table
+Taraba,Taraba Central,Yusuf Abubakar Yusuf,APC,98860.0,,results_table
+Taraba,Taraba Central,Dahiru Bako Gassol,PDP,95074.0,,results_table
+Yobe,Yobe South,Ibrahim Mohammed Bomai,APC,118729.0,,results_table
+Yobe,Yobe South,Mohammed Hassan,PDP,89049.0,,results_table
+Yobe,Yobe East,Ibrahim Gaidam,APC,139277.0,,results_table
+Yobe,Yobe East,Abba Gana Tata,PDP,18059.0,,results_table
+Yobe,Yobe North,Ahmad Lawan,APC,144099.0,,results_table
+Yobe,Yobe North,Abdullahi Sharif,PDP,53443.0,,results_table
+Zamfara,Zamfara West,Abdul'aziz Abubakar Yari,APC,153626.0,,results_table
+Zamfara,Zamfara West,Lawali Hassan Anka,PDP,69293.0,,results_table
+Zamfara,Zamfara Central,Aliyu Ikra Bilbisu,APC,74792.0,,results_table
+Zamfara,Zamfara Central,Hassan Muhammed Gusau,PDP,54859.0,,results_table
+Zamfara,Zamfara North,Tijjani Yahaya Kaura,PDP,68027.0,,results_table
+Zamfara,Zamfara North,Sahabi Alhaji Yaú,APC,43521.0,,results_table

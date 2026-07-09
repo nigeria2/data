@@ -1,0 +1,115 @@
+state,candidate,party,votes,percent,source
+Abia,Emeka Michael Nwankpa,A,1528.0,0.41,results_table
+Abia,Wilson Kalu Akuma,AA,474.0,0.13,results_table
+Abia,Bond Ohuche,AAC,298.0,0.08,results_table
+Abia,Sunday Onuoha,ADC,2529.0,0.7,results_table
+Abia,Chibuike Jonas,ADP,601.0,0.16,results_table
+Abia,Ikechi Emenike,APC,24091.0,6.72,results_table
+Abia,Anyim Uguru Chikezie,APM,572.0,0.15,results_table
+Abia,Mascot Kalu,APP,11728.0,3.3,results_table
+Abia,Gregory Ibe,APGA,18119.0,5.05,results_table
+Abia,Lucky Achinihu Ekeji,BP,1141.0,0.31,results_table
+Abia,Alex Otti,LP,175467.0,48.94,results_table
+Abia,Ukpai Iro Ukpai,New Nigeria Peoples Party,2068.0,0.57,results_table
+Abia,Ijeoma Kalu,NRM,472.0,0.13,results_table
+Abia,Okey Ahiwe,PDP,88529.0,24.69,results_table
+Abia,Nnenna Ngwa'Mma Lancaster-Okoro,PRP,168.0,0.04,results_table
+Abia,Gladys Ikonnaya Ngozi Johnson-Ogbuneke,SDP,773.0,0.21,results_table
+Abia,Enyinnaya Nwafor,YPP,28972.0,8.08,results_table
+Abia,Prince Chibunna Onukwu,ZLP,1011.0,0.28,results_table
+Adamawa,Ahmadu Umaru Fintiri,PDP,,50.46,infobox
+Adamawa,Aishatu Dahiru Ahmed,APC,,46.71,infobox
+Adamawa,,,,,infobox
+Akwa Ibom,Umo Eno,PDP,,55.02,infobox
+Akwa Ibom,Bassey Albert Akpan,YPP,,21.16,infobox
+Akwa Ibom,Akanimo Udofia,APC,,20.12,infobox
+Bauchi,Sadique Abubakar,APC,432272.0,41.79,breakdown_total_row
+Bauchi,Halliru Dauda Jika,NNPP,60496.0,5.85,breakdown_total_row
+Bauchi,Bala Mohammed,PDP,525280.0,50.78,breakdown_total_row
+Bauchi,Other candidates,,16331.0,1.58,breakdown_total_row
+Bayelsa,Timipre Sylva,APC,110108.0,60.93,breakdown_total_row
+Bayelsa,Douye Diri,PDP,175196.0,38.29,breakdown_total_row
+Bayelsa,Other candidates,,2250.0,0.78,breakdown_total_row
+Benue,Hyacinth Alia,APC,473933.0,62.61,breakdown_total_row
+Benue,Herman Hembe,LP,41881.0,5.53,breakdown_total_row
+Benue,Titus Uba,PDP,223913.0,29.58,breakdown_total_row
+Benue,Other candidates,,17176.0,2.28,breakdown_total_row
+Borno,Babagana Umara Zulum,APC,,86.1,infobox
+Borno,Mohammed Ali Jajari,PDP,,12.96,infobox
+Borno,,,,,infobox
+Cross River,Bassey Otu,APC,258619.0,57.23,breakdown_total_row
+Cross River,Sandy Ojang Onor,PDP,179636.0,39.75,breakdown_total_row
+Cross River,Other candidates,,13678.0,3.03,breakdown_total_row
+Delta,Ovie Omo-Agege,APC,240229.0,35.76,breakdown_total_row
+Delta,Ken Pela,LP,48027.0,7.15,breakdown_total_row
+Delta,Sheriff Oborevwori,PDP,360234.0,53.63,breakdown_total_row
+Delta,Other candidates,,23247.0,3.46,breakdown_total_row
+Ebonyi,Francis Nwifuru,APC,,58.13,infobox
+Ebonyi,Ifeanyi Odii,PDP,,23.41,infobox
+Ebonyi,Bernard Odoh,APGA,,15.24,infobox
+Enugu,Uche Nnaji,APC,14575.0,4.07,breakdown_total_row
+Enugu,Frank Nweke,APGA,17983.0,5.02,breakdown_total_row
+Enugu,Chijioke Edeoga,LP,157552.0,43.95,breakdown_total_row
+Enugu,Peter Mbah,PDP,160895.0,44.88,breakdown_total_row
+Enugu,Other candidates,,7458.0,2.08,breakdown_total_row
+Gombe,Muhammad Inuwa Yahaya,APC,342821.0,56.63,breakdown_total_row
+Gombe,Mohammed Jibrin,PDP,233131.0,38.51,breakdown_total_row
+Gombe,Other candidates,,29403.0,4.86,breakdown_total_row
+Imo,Hope Uzodinma,APC,,,infobox
+Imo,Samuel Anyanwu,PDP,,,infobox
+Imo,Athan Achonu,LP,,,infobox
+Jigawa,Umar Namadi,APC,,59.89,infobox
+Jigawa,Mustapha Sule Lamido,PDP,,35.71,infobox
+Jigawa,,,,,infobox
+Kaduna,Uba Sani,APC,,47.2,infobox
+Kaduna,Isa Ashiru,PDP,,46.49,infobox
+Kaduna,Jonathan Asake,LP,,3.77,infobox
+Kano,Nasir Yusuf Gawuna,APC,890705.0,,breakdown_total_row
+Kano,Abba Kabir Yusuf,NNPP,1019602.0,,breakdown_total_row
+Kano,Sadiq Wali,PDP,15957.0,,breakdown_total_row
+Katsina,Umar Dikko Radda,APC,859892.0,62.96,breakdown_total_row
+Katsina,Garba Yakubu Lado,PDP,486620.0,35.63,breakdown_total_row
+Katsina,Other candidates,,19336.0,1.42,breakdown_total_row
+Kebbi,Nasir Idris,APC,,52.37,infobox
+Kebbi,Aminu Bande,PDP,,46.19,infobox
+Kebbi,,,,,infobox
+Kogi,Ahmed Usman Ododo,APC,,57.04,infobox
+Kogi,Murtala Ajaka,SDP,,33.11,infobox
+Kogi,Dino Melaye,PDP,,5.93,infobox
+Kwara,AbdulRahman AbdulRazaq,APC,273424.0,59.38,breakdown_total_row
+Kwara,Shuaib Yaman Abdullahi,PDP,155490.0,33.77,breakdown_total_row
+Kwara,Hakeem Lawal,SDP,18922.0,4.11,breakdown_total_row
+Kwara,Other candidates,,12661.0,2.75,breakdown_total_row
+Lagos,Babajide Sanwo-Olu,APC,,65.95,infobox
+Lagos,Gbadebo Rhodes-Vivour,LP,,27.03,infobox
+Lagos,Abdul-Azeez Olajide Adediran,PDP,,5.4,infobox
+Nasarawa,Abdullahi Sule,APC,,53.1,infobox
+Nasarawa,David Ombugadu,PDP,,43.28,infobox
+Nasarawa,,,,,infobox
+Niger,Mohammed Umar Bago,APC,,53.82,infobox
+Niger,Isah Liman Kantigi,PDP,,44.38,infobox
+Niger,,,,,infobox
+Ogun,Dapo Abiodun,APC,,42.83,infobox
+Ogun,Ladi Adebutu,PDP,,40.67,infobox
+Ogun,Olubiyi Otegbeye,ADC,,14.69,infobox
+Oyo,Seyi Makinde,PDP,,63.37,infobox
+Oyo,Teslim Folarin,APC,,28.86,infobox
+Oyo,Adebayo Adelabu,A,,4.31,infobox
+Plateau,Caleb Mutfwang,PDP,,48.62,infobox
+Plateau,Nentawe Yilwatda,APC,,44.55,infobox
+Plateau,Patrick Dakum,LP,,5.58,infobox
+Rivers,Tonye Cole,APC,95274.0,,results_table
+Rivers,Beatrice Itubo,LP,22224.0,,results_table
+Rivers,Sam Agwor,New Nigeria Peoples Party,335.0,,results_table
+Rivers,Siminalayi Fubara,PDP,302614.0,,results_table
+Sokoto,Ahmad Aliyu,APC,,52.48,infobox
+Sokoto,Saidu Umar,PDP,,46.81,infobox
+Sokoto,,,,,infobox
+Taraba,Kefas Agbu,PDP,,,infobox
+Taraba,Muhammad Sani Yahaya,NNPP,,,infobox
+Taraba,Emmanuel Bwacha,APC,,,infobox
+Yobe,Mai Mala Buni,APC,,71.33,infobox
+Yobe,Sharif Abdullahi,PDP,,27.95,infobox
+Yobe,,,,,infobox
+Zamfara,Bello Matawalle,APC,377726.0,,breakdown_total_row
+Zamfara,Dauda Lawal,PDP,311976.0,,breakdown_total_row
