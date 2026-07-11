@@ -1,0 +1,762 @@
+state,lga,party,votes
+Adamawa,Demsa,PDP,22037
+Adamawa,Demsa,APC,10342
+Adamawa,Fufore,APC,21972
+Adamawa,Fufore,PDP,17529
+Adamawa,Ganye,APC,19151
+Adamawa,Ganye,PDP,17993
+Adamawa,Girei,APC,15171
+Adamawa,Girei,PDP,6938
+Adamawa,Gombi,PDP,12968
+Adamawa,Gombi,APC,9347
+Adamawa,Guyuk,PDP,19022
+Adamawa,Guyuk,APC,12504
+Adamawa,Hong,PDP,26556
+Adamawa,Hong,APC,21407
+Adamawa,Jada,PDP,20076
+Adamawa,Jada,APC,18006
+Adamawa,Lamurde,PDP,20138
+Adamawa,Lamurde,APC,10182
+Adamawa,Madagali,PDP,17660
+Adamawa,Madagali,APC,9365
+Adamawa,Maiha,APC,14939
+Adamawa,Maiha,PDP,8745
+Adamawa,Mayo Belwa,PDP,19897
+Adamawa,Mayo Belwa,APC,14198
+Adamawa,Michika,PDP,25617
+Adamawa,Michika,APC,13511
+Adamawa,Mubi North,APC,31805
+Adamawa,Mubi North,PDP,17567
+Adamawa,Mubi South,APC,19825
+Adamawa,Mubi South,PDP,10420
+Adamawa,Numan,PDP,21922
+Adamawa,Numan,APC,11642
+Adamawa,Shelleng,APC,15944
+Adamawa,Shelleng,PDP,11377
+Adamawa,Song,PDP,25151
+Adamawa,Song,APC,17845
+Adamawa,Toungo,APC,6564
+Adamawa,Toungo,PDP,6018
+Adamawa,Yola North,PDP,24383
+Adamawa,Yola North,APC,20979
+Adamawa,Yola South,APC,22129
+Adamawa,Yola South,PDP,18257
+Akwa Ibom,Abak,PDP,17461
+Akwa Ibom,Abak,APC,11505
+Akwa Ibom,Eastern Obolo,PDP,10780
+Akwa Ibom,Eastern Obolo,APC,1914
+Akwa Ibom,Eket,PDP,26372
+Akwa Ibom,Eket,APC,5087
+Akwa Ibom,Esit Eket,PDP,13406
+Akwa Ibom,Esit Eket,APC,3917
+Akwa Ibom,Essien Udim,APC,6938
+Akwa Ibom,Essien Udim,PDP,2161
+Akwa Ibom,Etim Ekpo,PDP,10149
+Akwa Ibom,Etim Ekpo,APC,2776
+Akwa Ibom,Etinan,PDP,22954
+Akwa Ibom,Etinan,APC,8089
+Akwa Ibom,Ibeno,PDP,10008
+Akwa Ibom,Ibeno,APC,1442
+Akwa Ibom,Ibesikpo Asutan,PDP,15679
+Akwa Ibom,Ibesikpo Asutan,APC,11216
+Akwa Ibom,Ibiono-Ibom,PDP,36988
+Akwa Ibom,Ibiono-Ibom,APC,7280
+Akwa Ibom,Ika,PDP,12752
+Akwa Ibom,Ika,APC,3212
+Akwa Ibom,Ikono,PDP,18910
+Akwa Ibom,Ikono,APC,4498
+Akwa Ibom,Ikot Ekpene,PDP,14832
+Akwa Ibom,Ikot Ekpene,APC,11240
+Akwa Ibom,Ikot-Abasi,PDP,9335
+Akwa Ibom,Ikot-Abasi,APC,7549
+Akwa Ibom,Ini,PDP,17335
+Akwa Ibom,Ini,APC,3316
+Akwa Ibom,Itu,PDP,14633
+Akwa Ibom,Itu,APC,5911
+Akwa Ibom,Mbo,PDP,9631
+Akwa Ibom,Mbo,APC,5419
+Akwa Ibom,Mkpat-Enin,PDP,18056
+Akwa Ibom,Mkpat-Enin,APC,4769
+Akwa Ibom,Nsit-Atai,PDP,8855
+Akwa Ibom,Nsit-Atai,APC,3783
+Akwa Ibom,Nsit-Ibom,PDP,17326
+Akwa Ibom,Nsit-Ibom,APC,4816
+Akwa Ibom,Nsit-Ubium,PDP,17863
+Akwa Ibom,Nsit-Ubium,APC,6004
+Akwa Ibom,Obot-Akara,PDP,13979
+Akwa Ibom,Obot-Akara,APC,4704
+Akwa Ibom,Okobo,PDP,10800
+Akwa Ibom,Okobo,APC,6079
+Akwa Ibom,Onna,PDP,32103
+Akwa Ibom,Onna,APC,2110
+Akwa Ibom,Oron,PDP,8433
+Akwa Ibom,Oron,APC,3859
+Akwa Ibom,Oruk Anam,PDP,35093
+Akwa Ibom,Oruk Anam,APC,8640
+Akwa Ibom,Udung-Uko,PDP,4036
+Akwa Ibom,Udung-Uko,APC,2108
+Akwa Ibom,Ukanafun,PDP,35447
+Akwa Ibom,Ukanafun,APC,7220
+Akwa Ibom,Uruan,PDP,12895
+Akwa Ibom,Uruan,APC,5192
+Akwa Ibom,Urue-Offong/Oruko,PDP,6915
+Akwa Ibom,Urue-Offong/Oruko,APC,4592
+Akwa Ibom,Uyo,PDP,35092
+Bayelsa,Brass,APC,23831
+Bayelsa,Brass,PDP,10410
+Bayelsa,Ekeremor,APC,21489
+Bayelsa,Ekeremor,PDP,18344
+Bayelsa,Kolokuma/Opokuma,PDP,15360
+Bayelsa,Kolokuma/Opokuma,APC,8934
+Bayelsa,Nembe,APC,83041
+Bayelsa,Nembe,PDP,874
+Bayelsa,Ogbia,APC,58016
+Bayelsa,Ogbia,PDP,13763
+Bayelsa,Sagbama,PDP,60339
+Bayelsa,Sagbama,APC,7831
+Bayelsa,Southern Ijaw,APC,124803
+Bayelsa,Southern Ijaw,PDP,4898
+Bayelsa,Yenagoa,APC,24607
+Bayelsa,Yenagoa,PDP,19184
+Benue,Ado,PDP,10258
+Benue,Ado,APC,10135
+Benue,Agatu,PDP,10079
+Benue,Agatu,APC,7538
+Benue,Apa,PDP,8725
+Benue,Apa,APC,8636
+Benue,Buruku,PDP,29656
+Benue,Buruku,APC,13404
+Benue,Gboko,PDP,38241
+Benue,Gboko,APC,29802
+Benue,Guma,PDP,29693
+Benue,Guma,APC,12005
+Benue,Gwer East,PDP,19596
+Benue,Gwer East,APC,15291
+Benue,Gwer West,PDP,14856
+Benue,Gwer West,APC,7429
+Benue,Katsina-Ala,APC,21614
+Benue,Katsina-Ala,PDP,17980
+Benue,Konshisha,PDP,21980
+Benue,Konshisha,APC,13802
+Benue,Kwande,PDP,29241
+Benue,Kwande,APC,22786
+Benue,Logo,PDP,30803
+Benue,Logo,APC,4586
+Benue,Makurdi,APC,36517
+Benue,Makurdi,PDP,29414
+Benue,Obi,APC,10247
+Benue,Obi,PDP,9576
+Benue,Ogbadibo,APC,9259
+Benue,Ogbadibo,PDP,8985
+Benue,Ohimini,APC,8675
+Benue,Ohimini,PDP,7577
+Benue,Oju,APC,19134
+Benue,Oju,PDP,13330
+Benue,Okpokwu,PDP,11957
+Benue,Okpokwu,APC,9641
+Benue,Otukpo,APC,21785
+Benue,Otukpo,PDP,13153
+Benue,Tarka,APC,16600
+Benue,Tarka,PDP,3177
+Benue,Ukum,PDP,23156
+Benue,Ukum,APC,11790
+Benue,Ushongo,PDP,22703
+Benue,Ushongo,APC,14683
+Benue,Vandeikya,PDP,27725
+Benue,Vandeikya,APC,19079
+Borno,Abadam,APC,9968
+Borno,Abadam,PDP,50
+Borno,Askira/Uba,APC,58719
+Borno,Askira/Uba,PDP,9800
+Borno,Bama,APC,54783
+Borno,Bama,PDP,1036
+Borno,Bayo,APC,33752
+Borno,Bayo,PDP,1903
+Borno,Biu,APC,46794
+Borno,Biu,PDP,5597
+Borno,Chibok,APC,19370
+Borno,Chibok,PDP,1804
+Borno,Damboa,APC,36617
+Borno,Damboa,PDP,721
+Borno,Dikwa,APC,22138
+Borno,Dikwa,PDP,1542
+Borno,Gubio,APC,33203
+Borno,Gubio,PDP,419
+Borno,Guzamala,APC,28030
+Borno,Guzamala,PDP,277
+Borno,Gwoza,APC,120213
+Borno,Gwoza,PDP,3118
+Borno,Hawul,APC,29845
+Borno,Hawul,PDP,7039
+Borno,Jere,APC,122384
+Borno,Jere,PDP,3440
+Borno,Kaga,APC,16647
+Borno,Kaga,PDP,1166
+Borno,Kala/Balge,APC,35780
+Borno,Kala/Balge,PDP,497
+Borno,Konduga,APC,31484
+Borno,Konduga,PDP,2407
+Borno,Kukawa,APC,29040
+Borno,Kukawa,PDP,344
+Borno,Kwaya Kusar,APC,19790
+Borno,Kwaya Kusar,PDP,6860
+Borno,Mafa,APC,53011
+Borno,Mafa,PDP,163
+Borno,Magumeri,APC,22261
+Borno,Magumeri,PDP,123
+Borno,Maiduguri,APC,168952
+Borno,Maiduguri,PDP,5493
+Borno,Marte,APC,19329
+Borno,Marte,PDP,173
+Borno,Mobbar,APC,35828
+Borno,Mobbar,PDP,622
+Borno,Monguno,APC,41999
+Borno,Monguno,PDP,493
+Borno,Ngala,APC,42301
+Borno,Ngala,PDP,1910
+Borno,Nganzai,APC,20196
+Borno,Nganzai,PDP,907
+Borno,Shani,APC,23006
+Borno,Shani,PDP,8205
+Ebonyi,Abakaliki,PDP,26809
+Ebonyi,Abakaliki,APC,9815
+Ebonyi,Afikpo North,PDP,21245
+Ebonyi,Afikpo North,APC,7446
+Ebonyi,Afikpo South,PDP,27720
+Ebonyi,Afikpo South,APC,9275
+Ebonyi,Ebonyi,PDP,25830
+Ebonyi,Ebonyi,APC,5951
+Ebonyi,Ezza North,PDP,14181
+Ebonyi,Ezza North,APC,2482
+Ebonyi,Ezza South,PDP,27583
+Ebonyi,Ezza South,APC,3245
+Ebonyi,Ikwo,PDP,37947
+Ebonyi,Ikwo,APC,11475
+Ebonyi,Ishielu,PDP,26700
+Ebonyi,Ishielu,APC,3105
+Ebonyi,Ivo,PDP,19166
+Ebonyi,Ivo,APC,2055
+Ebonyi,Izzi,PDP,34199
+Ebonyi,Izzi,APC,13430
+Ebonyi,Ohaozara,PDP,48256
+Ebonyi,Ohaozara,APC,1004
+Ebonyi,Ohaukwu,PDP,30606
+Ebonyi,Ohaukwu,APC,9943
+Ebonyi,Onicha,PDP,52851
+Ebonyi,Onicha,APC,2497
+Enugu,Agwu,PDP,23025
+Enugu,Agwu,APC,1232
+Enugu,Aninri,PDP,21450
+Enugu,Aninri,APC,496
+Enugu,Enugu East,PDP,22300
+Enugu,Enugu East,APC,352
+Enugu,Enugu North,PDP,15120
+Enugu,Enugu North,APC,276
+Enugu,Enugu South,PDP,17513
+Enugu,Enugu South,APC,533
+Enugu,Ezeagwu,PDP,21448
+Enugu,Ezeagwu,APC,255
+Enugu,Igbo Etiti,PDP,25557
+Enugu,Igbo Etiti,APC,1223
+Enugu,Igbo Eze North,PDP,30666
+Enugu,Igbo Eze North,APC,1607
+Enugu,Igbo Eze South,PDP,38326
+Enugu,Igbo Eze South,APC,705
+Enugu,Isi Uzo,PDP,19698
+Enugu,Isi Uzo,APC,284
+Enugu,Nkanu East,PDP,23118
+Enugu,Nkanu East,APC,636
+Enugu,Nkanu West,PDP,30698
+Enugu,Nkanu West,APC,243
+Enugu,Nsukka,PDP,51207
+Enugu,Nsukka,APC,572
+Enugu,Oji River,PDP,22369
+Enugu,Oji River,APC,536
+Enugu,Udenu,PDP,39347
+Enugu,Udenu,APC,394
+Enugu,Udi,PDP,25124
+Enugu,Udi,APC,823
+Enugu,Uzo Uwani,PDP,22879
+Enugu,Uzo Uwani,APC,256
+Gombe,Akko,APC,58479
+Gombe,Akko,PDP,30832
+Gombe,Balanga,APC,30926
+Gombe,Balanga,PDP,18192
+Gombe,Billiri,APC,18612
+Gombe,Billiri,PDP,18063
+Gombe,Dukku,APC,27302
+Gombe,Dukku,PDP,16807
+Gombe,Funakaye,APC,29191
+Gombe,Funakaye,PDP,22259
+Gombe,Gombe,APC,68384
+Gombe,Gombe,PDP,21673
+Gombe,Kaltungo,APC,26744
+Gombe,Kaltungo,PDP,22259
+Gombe,Kwami,APC,30539
+Gombe,Kwami,PDP,18240
+Gombe,Nafada,PDP,17937
+Gombe,Nafada,APC,9018
+Gombe,Shongom,APC,13463
+Gombe,Shongom,PDP,12993
+Gombe,Yamaltu/Deba,APC,51521
+Gombe,Yamaltu/Deba,PDP,25852
+Jigawa,Auyo,APC,27771
+Jigawa,Auyo,PDP,7879
+Jigawa,Babura,APC,43601
+Jigawa,Babura,PDP,9131
+Jigawa,Biriniwa,APC,24993
+Jigawa,Biriniwa,PDP,12227
+Jigawa,Birnin Kudu,APC,48401
+Jigawa,Birnin Kudu,PDP,22777
+Jigawa,Buji,APC,21406
+Jigawa,Buji,PDP,9389
+Jigawa,Dutse,APC,43165
+Jigawa,Dutse,PDP,15108
+Jigawa,Gagarawa,APC,15565
+Jigawa,Gagarawa,PDP,8411
+Jigawa,Garki,APC,33674
+Jigawa,Garki,PDP,15147
+Jigawa,Gumel,APC,15800
+Jigawa,Gumel,PDP,5298
+Jigawa,Guri,APC,41906
+Jigawa,Guri,PDP,14820
+Jigawa,Gwaram,APC,58210
+Jigawa,Gwaram,PDP,12538
+Jigawa,Gwiwa,APC,24235
+Jigawa,Gwiwa,PDP,7746
+Jigawa,Hadejia,APC,27240
+Jigawa,Hadejia,PDP,4399
+Jigawa,Jahun,APC,41937
+Jigawa,Jahun,PDP,16119
+Jigawa,Kafin Hausa,APC,38989
+Jigawa,Kafin Hausa,PDP,10133
+Jigawa,Kaugama,APC,26025
+Jigawa,Kaugama,PDP,7384
+Jigawa,Kazaure,APC,22074
+Jigawa,Kazaure,PDP,3216
+Jigawa,Kiri Kasama,APC,26338
+Jigawa,Kiri Kasama,PDP,9333
+Jigawa,Kiyawa,APC,36255
+Jigawa,Kiyawa,PDP,12866
+Jigawa,Maigatari,APC,26126
+Jigawa,Maigatari,PDP,12494
+Jigawa,Malam Madori,APC,27616
+Jigawa,Malam Madori,PDP,7397
+Jigawa,Miga,APC,22746
+Jigawa,Miga,PDP,9269
+Jigawa,Ringim,APC,41481
+Jigawa,Ringim,PDP,28035
+Jigawa,Roni,APC,19516
+Jigawa,Roni,PDP,5013
+Jigawa,Sule Tankarkar,APC,32154
+Jigawa,Sule Tankarkar,PDP,12543
+Jigawa,Taura,APC,32735
+Jigawa,Taura,PDP,11417
+Jigawa,Yankwashi,APC,11880
+Jigawa,Yankwashi,PDP,5677
+Katsina,Bakori,APC,44143
+Katsina,Bakori,PDP,20237
+Katsina,Batagarawa,APC,39420
+Katsina,Batagarawa,PDP,12512
+Katsina,Batsari,APC,33742
+Katsina,Batsari,PDP,14142
+Katsina,Baure,APC,41076
+Katsina,Baure,PDP,18012
+Katsina,Bindawa,APC,34659
+Katsina,Bindawa,PDP,13183
+Katsina,Charanchi,APC,24692
+Katsina,Charanchi,PDP,9781
+Katsina,Dan Musa,APC,28008
+Katsina,Dan Musa,PDP,10306
+Katsina,Dandume,APC,32560
+Katsina,Dandume,PDP,13533
+Katsina,Danja,APC,36467
+Katsina,Danja,PDP,17845
+Katsina,Daura,APC,31361
+Katsina,Daura,PDP,8298
+Katsina,Dutsi,APC,22482
+Katsina,Dutsi,PDP,10564
+Katsina,Dutsin-Ma,APC,32568
+Katsina,Dutsin-Ma,PDP,16246
+Katsina,Faskari,APC,45777
+Katsina,Faskari,PDP,20329
+Katsina,Funtua,APC,43883
+Katsina,Funtua,PDP,16597
+Katsina,Ingawa,APC,28905
+Katsina,Ingawa,PDP,12602
+Katsina,Jibia,APC,30538
+Katsina,Jibia,PDP,12616
+Katsina,Kafur,APC,58148
+Katsina,Kafur,PDP,22792
+Katsina,Kaita,APC,27076
+Katsina,Kaita,PDP,11479
+Katsina,Kankara,APC,43341
+Katsina,Kankara,PDP,23856
+Katsina,Kankia,APC,29096
+Katsina,Kankia,PDP,14706
+Katsina,Katsina,APC,64709
+Katsina,Katsina,PDP,16734
+Katsina,Kurfi,APC,24994
+Katsina,Kurfi,PDP,12815
+Katsina,Kusada,APC,20799
+Katsina,Kusada,PDP,8080
+Katsina,Mai'Adua,APC,34154
+Katsina,Mai'Adua,PDP,12904
+Katsina,Malumfashi,APC,56008
+Katsina,Malumfashi,PDP,21132
+Katsina,Mani,APC,34254
+Katsina,Mani,PDP,16476
+Katsina,Mashi,APC,34695
+Katsina,Mashi,PDP,19255
+Katsina,Matazu,APC,28253
+Katsina,Matazu,PDP,10327
+Katsina,Musawa,APC,32276
+Katsina,Musawa,PDP,10151
+Katsina,Rimi,APC,36276
+Katsina,Rimi,PDP,12496
+Katsina,Sabuwa,APC,22359
+Katsina,Sabuwa,PDP,14384
+Katsina,Safana,APC,26807
+Katsina,Safana,PDP,10657
+Katsina,Sandamu,APC,32193
+Katsina,Sandamu,PDP,11912
+Katsina,Zango,APC,23193
+Katsina,Zango,PDP,11662
+Kebbi,Aleiro,APC,21923
+Kebbi,Aleiro,PDP,3479
+Kebbi,Arewa,APC,35991
+Kebbi,Arewa,PDP,10994
+Kebbi,Argungu,APC,30101
+Kebbi,Argungu,PDP,23397
+Kebbi,Augie,APC,28479
+Kebbi,Augie,PDP,11875
+Kebbi,Bagudo,APC,41556
+Kebbi,Bagudo,PDP,2581
+Kebbi,Birnin Kebbi,APC,79092
+Kebbi,Birnin Kebbi,PDP,6010
+Kebbi,Bunza,APC,23980
+Kebbi,Bunza,PDP,2114
+Kebbi,Dandi,APC,66630
+Kebbi,Dandi,PDP,11858
+Kebbi,Fakai,APC,14722
+Kebbi,Fakai,PDP,3729
+Kebbi,Gwandu,APC,30720
+Kebbi,Gwandu,PDP,4526
+Kebbi,Jega,APC,53807
+Kebbi,Jega,PDP,1774
+Kebbi,Kalgo,APC,21899
+Kebbi,Kalgo,PDP,805
+Kebbi,Koko/Besse,APC,31392
+Kebbi,Koko/Besse,PDP,1216
+Kebbi,Maiyama,APC,40217
+Kebbi,Maiyama,PDP,1477
+Kebbi,Ngaski,APC,20917
+Kebbi,Ngaski,PDP,5516
+Kebbi,Sakaba,APC,19182
+Kebbi,Sakaba,PDP,1746
+Kebbi,Shanga,APC,27012
+Kebbi,Shanga,PDP,3506
+Kebbi,Suru,APC,39359
+Kebbi,Suru,PDP,5198
+Kebbi,Wasagu/Danko,APC,29625
+Kebbi,Wasagu/Danko,PDP,4609
+Kebbi,Yauri,APC,25011
+Kebbi,Yauri,PDP,1574
+Kebbi,Zuru,APC,25507
+Kebbi,Zuru,PDP,4578
+Kogi,Adavi,APC,64657
+Kogi,Adavi,PDP,366
+Kogi,Ajaokuta,APC,17952
+Kogi,Ajaokuta,PDP,5565
+Kogi,Ankpa,PDP,28108
+Kogi,Ankpa,APC,11269
+Kogi,Bassa,PDP,9724
+Kogi,Bassa,APC,8386
+Kogi,Dekina,PDP,16575
+Kogi,Dekina,APC,8948
+Kogi,Idah,PDP,13962
+Kogi,Idah,APC,4602
+Kogi,Igalamela-Odolu,PDP,11195
+Kogi,Igalamela-Odolu,APC,8075
+Kogi,Ijumu,APC,11425
+Kogi,Ijumu,PDP,7585
+Kogi,Kabba/Bunu,APC,15364
+Kogi,Kabba/Bunu,PDP,8084
+Kogi,Koton Karfe,APC,14097
+Kogi,Koton Karfe,PDP,9404
+Kogi,Lokoja,APC,19457
+Kogi,Lokoja,PDP,11045
+Kogi,Mopa-Muro,APC,4953
+Kogi,Mopa-Muro,PDP,3581
+Kogi,Ofu,PDP,12264
+Kogi,Ofu,APC,11006
+Kogi,Ogori-Magongo,APC,3679
+Kogi,Ogori-Magongo,PDP,2145
+Kogi,Okehi,APC,36954
+Kogi,Okehi,PDP,478
+Kogi,Okene,APC,112762
+Kogi,Okene,PDP,139
+Kogi,Olamaboro,APC,16876
+Kogi,Olamaboro,PDP,8155
+Kogi,Omala,PDP,14403
+Kogi,Omala,APC,8473
+Kogi,Yagba East,PDP,7546
+Kogi,Yagba East,APC,6735
+Kogi,Yagba West,PDP,8860
+Kogi,Yagba West,APC,7868
+Nasarawa,Akwanga,APC,21968
+Nasarawa,Akwanga,PDP,18402
+Nasarawa,Awe,APC,29443
+Nasarawa,Awe,PDP,9228
+Nasarawa,Doma,PDP,10318
+Nasarawa,Doma,APC,10029
+Nasarawa,Eggon,PDP,14290
+Nasarawa,Eggon,APC,11611
+Nasarawa,Karu,APC,23207
+Nasarawa,Karu,PDP,21967
+Nasarawa,Keana,APC,11759
+Nasarawa,Keana,PDP,6579
+Nasarawa,Keffi,APC,25589
+Nasarawa,Keffi,PDP,12419
+Nasarawa,Kokona,APC,23027
+Nasarawa,Kokona,PDP,18971
+Nasarawa,Lafia,APC,70451
+Nasarawa,Lafia,PDP,18827
+Nasarawa,Nasarawa,APC,31586
+Nasarawa,Nasarawa,PDP,17406
+Nasarawa,Obi,APC,20640
+Nasarawa,Obi,PDP,17951
+Nasarawa,Toto,APC,32213
+Nasarawa,Toto,PDP,8590
+Nasarawa,Wamba,APC,15706
+Nasarawa,Wamba,PDP,9332
+Niger,Agaie,APC,19295
+Niger,Agaie,PDP,16903
+Niger,Agwara,APC,11236
+Niger,Agwara,PDP,5365
+Niger,Bida,APC,21493
+Niger,Bida,PDP,11212
+Niger,Borgu,APC,25211
+Niger,Borgu,PDP,7206
+Niger,Bosso,APC,19610
+Niger,Bosso,PDP,11470
+Niger,Chanchaga,APC,27764
+Niger,Chanchaga,PDP,21179
+Niger,Edati,APC,19200
+Niger,Edati,PDP,10200
+Niger,Gbako,APC,24836
+Niger,Gbako,PDP,10623
+Niger,Gurara,APC,14649
+Niger,Gurara,PDP,7798
+Niger,Katcha,APC,20171
+Niger,Katcha,PDP,9800
+Niger,Kontagora,APC,27117
+Niger,Kontagora,PDP,11888
+Niger,Lapai,APC,24724
+Niger,Lapai,PDP,10599
+Niger,Lavun,APC,27345
+Niger,Lavun,PDP,15335
+Niger,Magama,APC,20540
+Niger,Magama,PDP,17633
+Niger,Mariga,APC,17890
+Niger,Mariga,PDP,13433
+Niger,Mashegu,APC,18102
+Niger,Mashegu,PDP,10988
+Niger,Mokwa,APC,26679
+Niger,Mokwa,PDP,13155
+Niger,Munya,APC,14879
+Niger,Munya,PDP,8458
+Niger,Paikoro,APC,21571
+Niger,Paikoro,PDP,13600
+Niger,Rafi,APC,28289
+Niger,Rafi,PDP,13372
+Niger,Rijau,APC,22111
+Niger,Rijau,PDP,9566
+Niger,Shiroro,APC,28285
+Niger,Shiroro,PDP,16438
+Niger,Suleja,APC,19105
+Niger,Suleja,PDP,14975
+Niger,Tafa,APC,13111
+Niger,Tafa,PDP,8608
+Niger,Wushishi,APC,13199
+Niger,Wushishi,PDP,8309
+Oyo,Afijio,PDP,10515
+Oyo,Afijio,APC,7591
+Oyo,Akinyele,PDP,23423
+Oyo,Akinyele,APC,12023
+Oyo,Atiba,PDP,14636
+Oyo,Atiba,APC,9690
+Oyo,Atisbo,PDP,10026
+Oyo,Atisbo,APC,9678
+Oyo,Egbeda,PDP,24203
+Oyo,Egbeda,APC,13581
+Oyo,Ibadan North,PDP,40785
+Oyo,Ibadan North,APC,18866
+Oyo,Ibadan North-East,PDP,30824
+Oyo,Ibadan North-East,APC,12553
+Oyo,Ibadan North-West,PDP,20715
+Oyo,Ibadan North-West,APC,9690
+Oyo,Ibadan South-East,PDP,24556
+Oyo,Ibadan South-East,APC,13277
+Oyo,Ibadan South-West,PDP,34445
+Oyo,Ibadan South-West,APC,18183
+Oyo,Ibarapa Central,PDP,10964
+Oyo,Ibarapa Central,APC,7888
+Oyo,Ibarapa East,PDP,13002
+Oyo,Ibarapa East,APC,8646
+Oyo,Ibarapa North,PDP,11580
+Oyo,Ibarapa North,APC,8644
+Oyo,Ido,PDP,16726
+Oyo,Ido,APC,8585
+Oyo,Irepo,APC,7862
+Oyo,Irepo,PDP,7633
+Oyo,Iseyin,PDP,21080
+Oyo,Iseyin,APC,15435
+Oyo,Itesiwaju,PDP,8612
+Oyo,Itesiwaju,APC,6825
+Oyo,Iwajowa,PDP,9358
+Oyo,Iwajowa,APC,8459
+Oyo,Kajola,PDP,13600
+Oyo,Kajola,APC,12982
+Oyo,Lagelu,PDP,16217
+Oyo,Lagelu,APC,11923
+Oyo,Ogbomosho North,APC,14442
+Oyo,Ogbomosho North,PDP,13035
+Oyo,Ogbomosho South,PDP,11236
+Oyo,Ogbomosho South,APC,10984
+Oyo,Ogo Oluwa,APC,9547
+Oyo,Ogo Oluwa,PDP,6152
+Oyo,Olorunsogo,PDP,7554
+Oyo,Olorunsogo,APC,5277
+Oyo,Oluyole,PDP,18070
+Oyo,Oluyole,APC,9477
+Oyo,Ona Ara,PDP,14430
+Oyo,Ona Ara,APC,7848
+Oyo,Orelope,PDP,10460
+Oyo,Orelope,APC,7546
+Oyo,Ori Ire,APC,15810
+Oyo,Ori Ire,PDP,9856
+Oyo,Oyo East,PDP,12580
+Oyo,Oyo East,APC,8721
+Oyo,Oyo West,PDP,12132
+Oyo,Oyo West,APC,9756
+Oyo,Saki East,PDP,8527
+Oyo,Saki East,APC,6345
+Oyo,Saki West,PDP,21184
+Oyo,Saki West,APC,15147
+Oyo,Surulere,APC,14168
+Oyo,Surulere,PDP,7505
+Plateau,Barkin Ladi,PDP,44529
+Plateau,Barkin Ladi,APC,17080
+Plateau,Bassa,PDP,33192
+Plateau,Bassa,APC,30441
+Plateau,Bokkos,APC,27561
+Plateau,Bokkos,PDP,26700
+Plateau,Jos East,APC,18602
+Plateau,Jos East,PDP,7994
+Plateau,Jos North,APC,109161
+Plateau,Jos North,PDP,14290
+Plateau,Jos South,PDP,91846
+Plateau,Jos South,APC,33475
+Plateau,Kanam,APC,55338
+Plateau,Kanam,PDP,22432
+Plateau,Kanke,APC,23360
+Plateau,Kanke,PDP,22831
+Plateau,Langtang North,PDP,40519
+Plateau,Langtang North,APC,18979
+Plateau,Langtang South,PDP,18868
+Plateau,Langtang South,APC,14470
+Plateau,Mangu,APC,51895
+Plateau,Mangu,PDP,43555
+Plateau,Mikang,APC,15150
+Plateau,Mikang,PDP,11703
+Plateau,Pankshin,APC,36215
+Plateau,Pankshin,PDP,24939
+Plateau,Qua'an Pan,APC,31962
+Plateau,Qua'an Pan,PDP,20939
+Plateau,Riyom,PDP,24017
+Plateau,Riyom,APC,12720
+Plateau,Shendam,APC,61798
+Plateau,Shendam,PDP,17115
+Plateau,Wase,APC,37593
+Plateau,Wase,PDP,27485
+Sokoto,Binji,PDP,13406
+Sokoto,Binji,APC,11216
+Sokoto,Bodinga,PDP,21725
+Sokoto,Bodinga,APC,21078
+Sokoto,Dange Shuni,APC,23990
+Sokoto,Dange Shuni,PDP,23409
+Sokoto,Gada,APC,30981
+Sokoto,Gada,PDP,24598
+Sokoto,Goronyo,APC,20867
+Sokoto,Goronyo,PDP,19915
+Sokoto,Gudu,PDP,15077
+Sokoto,Gudu,APC,12233
+Sokoto,Gwadabawa,APC,24928
+Sokoto,Gwadabawa,PDP,21866
+Sokoto,Illela,APC,26540
+Sokoto,Illela,PDP,20977
+Sokoto,Isa,PDP,24009
+Sokoto,Isa,APC,16830
+Sokoto,Kebbe,APC,11820
+Sokoto,Kebbe,PDP,9751
+Sokoto,Kware,PDP,20197
+Sokoto,Kware,APC,19212
+Sokoto,Rabah,APC,17946
+Sokoto,Rabah,PDP,14551
+Sokoto,Sabon Birni,PDP,34282
+Sokoto,Sabon Birni,APC,32257
+Sokoto,Shagari,APC,19656
+Sokoto,Shagari,PDP,18222
+Sokoto,Silame,PDP,16757
+Sokoto,Silame,APC,12845
+Sokoto,Sokoto North,PDP,36813
+Sokoto,Sokoto North,APC,33442
+Sokoto,Sokoto South,PDP,40337
+Sokoto,Sokoto South,APC,36092
+Sokoto,Tambuwal,PDP,44474
+Sokoto,Tambuwal,APC,30473
+Sokoto,Tangaza,PDP,17661
+Sokoto,Tangaza,APC,16374
+Sokoto,Tureta,PDP,13255
+Sokoto,Tureta,APC,11510
+Sokoto,Wamako,APC,35251
+Sokoto,Wamako,PDP,26392
+Sokoto,Wurno,APC,20391
+Sokoto,Wurno,PDP,14201
+Sokoto,Yabo,APC,16122
+Sokoto,Yabo,PDP,13405
+Yobe,Bade,APC,32213
+Yobe,Bade,PDP,8854
+Yobe,Bursari,APC,20657
+Yobe,Bursari,PDP,2813
+Yobe,Damaturu,APC,26087
+Yobe,Damaturu,PDP,3760
+Yobe,Fika,APC,36519
+Yobe,Fika,PDP,9552
+Yobe,Fune,APC,36040
+Yobe,Fune,PDP,14327
+Yobe,Geidam,APC,18724
+Yobe,Geidam,PDP,2760
+Yobe,Gujba,APC,17714
+Yobe,Gujba,PDP,1119
+Yobe,Gulani,APC,21765
+Yobe,Gulani,PDP,4576
+Yobe,Jakusko,APC,30828
+Yobe,Jakusko,PDP,5887
+Yobe,Karasuwa,APC,24262
+Yobe,Karasuwa,PDP,2762
+Yobe,Machina,APC,16950
+Yobe,Machina,PDP,2164
+Yobe,Nangere,APC,25698
+Yobe,Nangere,PDP,4765
+Yobe,Nguru,APC,28366
+Yobe,Nguru,PDP,19468
+Yobe,Potiskum,APC,54773
+Yobe,Potiskum,PDP,5114
+Yobe,Tarmuwa,APC,11338
+Yobe,Tarmuwa,PDP,3925
+Yobe,Yunusari,APC,28858
+Yobe,Yunusari,PDP,893
+Yobe,Yusufari,APC,22221
+Yobe,Yusufari,PDP,2964
