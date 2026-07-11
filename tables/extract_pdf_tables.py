@@ -43,10 +43,16 @@ STATE_FIX = {"Akwa-Ibom": "Akwa Ibom", "Cross-River": "Cross River"}
 # classifying a file's actual office. NAME and CODE also appear in either
 # order, and some files drop "OF FC/SD/SC:" entirely.
 CODE_RE = re.compile(r"\b(FC|SD|SC)[/-]\s*(\d+)[/-]\s*([A-Z]{1,4})\b", re.IGNORECASE)
+# Matched against `flat` (newlines already collapsed to spaces), so a bare
+# "till end of line" group like [^\n]+ is meaningless there -- every group
+# below is bounded by an explicit lookahead for the next CODE/S-N marker (or
+# end of string) so it can never run past the constituency name into the
+# candidate table itself.
+_NAME_END = r"(?=\s*(?:CODE\s*:|S\s*/\s*N\b|$))"
 NAME_PATTERNS = [
-    re.compile(r"NAME OF (?:FC|SD|SC)\s*:\s*([^\n]+?)\s*CODE", re.IGNORECASE),
-    re.compile(r"CODE\s*:\s*\S+\s*NAME OF (?:FC|SD|SC)\s*:\s*([^\n]+)", re.IGNORECASE),
-    re.compile(r"\bNAME\s+(?:OF\s+(?:FC|SD|SC)\s*:?\s*)?([A-Z][A-Z0-9/&,.'\- ]+?)\s*CODE", re.IGNORECASE),
+    re.compile(r"NAME OF (?:FC|SD|SC)\s*:\s*(.+?)" + _NAME_END, re.IGNORECASE),
+    re.compile(r"CODE\s*:\s*\S+\s*NAME OF (?:FC|SD|SC)\s*:\s*(.+?)" + _NAME_END, re.IGNORECASE),
+    re.compile(r"\bNAME\s+(?:OF\s+(?:FC|SD|SC)\s*:?\s*)?([A-Z][A-Z0-9/&,.'\- ]+?)" + _NAME_END, re.IGNORECASE),
 ]
 
 OFFICE_BY_CODE_PREFIX = {"FC": "house", "SD": "senate", "SC": "state_assembly"}
@@ -90,8 +96,14 @@ def extract_pdf(path: Path, expected_office: str) -> tuple[str, str, list[dict],
         for pattern in NAME_PATTERNS:
             m = pattern.search(flat)
             if m:
-                name = m.group(1).strip().strip(":").strip()
-                break
+                candidate_name = m.group(1).strip().strip(":").strip()
+                # A real constituency name is a few words; anything this long
+                # means the lookahead boundary never found a CODE/S-N marker to
+                # stop at (e.g. a PDF with a genuinely garbled/interleaved text
+                # layer) and swallowed part of the candidate table instead.
+                if 0 < len(candidate_name) <= 80:
+                    name = candidate_name
+                    break
         if not name:
             name = name_from_filename(path)
 
@@ -123,23 +135,38 @@ def extract_pdf(path: Path, expected_office: str) -> tuple[str, str, list[dict],
         return name, code, rows, None
 
 
-def process_folder(folder: Path, office: str, issues: list[str]) -> list[dict]:
-    all_rows = []
-    for path in sorted(folder.glob("*.pdf")):
+def process_office(primary: Path, secondary: Path, office: str, issues: list[str]) -> list[dict]:
+    """Parse every sheet for `office`: the whole primary folder, then any sheet
+    mis-filed in the secondary folder whose code isn't already present. Only
+    cross-folder duplicates are dropped -- same-folder files that happen to share
+    a (mistyped) code are all kept, since they're distinct constituencies."""
+    all_rows: list[dict] = []
+    seen_codes: set[str] = set()
+
+    def take(path: Path, allow_dupe: bool) -> None:
         state = state_from_filename(path)
         name, code, rows, error = extract_pdf(path, office)
         if error:
             issues.append(f"{path.name}: {error}")
-            continue
+            return
         if not rows:
             issues.append(f"{path.name}: parsed header ({name}) but found zero candidate rows")
-            continue
+            return
+        if code and code in seen_codes and not allow_dupe:
+            return  # already have this sheet from the primary folder
+        if code:
+            seen_codes.add(code)
         for r in rows:
             r["state"] = state
             r["constituency" if office == "house" else "district"] = name
             r["code"] = code
             r["source_file"] = path.name
             all_rows.append(r)
+
+    for path in sorted(primary.glob("*.pdf")):
+        take(path, allow_dupe=True)
+    for path in sorted(secondary.glob("*.pdf")):
+        take(path, allow_dupe=False)
     return all_rows
 
 
@@ -157,11 +184,17 @@ def write_csv(rows: list[dict], office: str, out_path: Path) -> None:
 def main() -> int:
     issues: list[str] = []
 
-    house_rows = process_folder(SOURCE_ROOT / "house_2019_pdfs", "house", issues)
+    # Both folders contain a few sheets mis-filed under the wrong office (INEC's
+    # own broken index links), so each office pass also scans the other folder
+    # and picks up any correctly-coded sheet not already seen.
+    house_dir = SOURCE_ROOT / "house_2019_pdfs"
+    senate_dir = SOURCE_ROOT / "senate_2019_pdfs"
+
+    house_rows = process_office(house_dir, senate_dir, "house", issues)
     write_csv(house_rows, "house", SCRIPT_DIR / "2019_house_inec.csv")
     print(f"Wrote 2019_house_inec.csv: {len(house_rows)} rows")
 
-    senate_rows = process_folder(SOURCE_ROOT / "senate_2019_pdfs", "senate", issues)
+    senate_rows = process_office(senate_dir, house_dir, "senate", issues)
     write_csv(senate_rows, "senate", SCRIPT_DIR / "2019_senate_inec.csv")
     print(f"Wrote 2019_senate_inec.csv: {len(senate_rows)} rows")
 
