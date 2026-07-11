@@ -696,6 +696,30 @@ Bauchi,Zaki,APC,19637
 Bauchi,Zaki,LP,8
 Bauchi,Zaki,NNPP,1415
 Bauchi,Zaki,PDP,26420
+Bayelsa,Brass,APC,18431
+Bayelsa,Brass,PDP,12602
+Bayelsa,Brass,OTHERS,178
+Bayelsa,Ekeremor,APC,8445
+Bayelsa,Ekeremor,PDP,23172
+Bayelsa,Ekeremor,OTHERS,124
+Bayelsa,Kolokuma/Opokuma,APC,5344
+Bayelsa,Kolokuma/Opokuma,PDP,18465
+Bayelsa,Kolokuma/Opokuma,OTHERS,109
+Bayelsa,Nembe,APC,22248
+Bayelsa,Nembe,PDP,4556
+Bayelsa,Nembe,OTHERS,232
+Bayelsa,Ogbia,APC,16319
+Bayelsa,Ogbia,PDP,18435
+Bayelsa,Ogbia,OTHERS,217
+Bayelsa,Sagbama,APC,6608
+Bayelsa,Sagbama,PDP,35504
+Bayelsa,Sagbama,OTHERS,355
+Bayelsa,Southern Ijaw,APC,18174
+Bayelsa,Southern Ijaw,PDP,24685
+Bayelsa,Southern Ijaw,OTHERS,299
+Bayelsa,Yenagoa,APC,14534
+Bayelsa,Yenagoa,PDP,37777
+Bayelsa,Yenagoa,OTHERS,741
 Benue,Ado,APC,8662
 Benue,Ado,LP,308
 Benue,Ado,PDP,4379
@@ -820,115 +844,158 @@ Borno,Marte,PDP,57
 Borno,Marte,LP,0
 Cross River,Abi,APC,9861
 Cross River,Abi,PDP,8816
+Cross River,Abi,OTHERS,659
 Cross River,Akamkpa,APC,10529
 Cross River,Akamkpa,PDP,6935
+Cross River,Akamkpa,OTHERS,262
 Cross River,Akpabuyo,APC,10410
 Cross River,Akpabuyo,PDP,5938
+Cross River,Akpabuyo,OTHERS,461
 Cross River,Bakassi,APC,1632
 Cross River,Bakassi,PDP,316
+Cross River,Bakassi,OTHERS,46
 Cross River,Bekwarra,APC,11839
 Cross River,Bekwarra,PDP,12129
+Cross River,Bekwarra,OTHERS,611
 Cross River,Biase,APC,11626
 Cross River,Biase,PDP,7079
+Cross River,Biase,OTHERS,387
 Cross River,Boki,APC,17355
 Cross River,Boki,PDP,15303
+Cross River,Boki,OTHERS,520
 Cross River,Calabar Municipal,APC,20320
 Cross River,Calabar Municipal,PDP,15882
+Cross River,Calabar Municipal,OTHERS,1674
 Cross River,Calabar South,APC,28340
 Cross River,Calabar South,PDP,7980
+Cross River,Calabar South,OTHERS,951
 Cross River,Etung,APC,5205
 Cross River,Etung,PDP,5139
+Cross River,Etung,OTHERS,152
 Cross River,Ikom,APC,12883
 Cross River,Ikom,PDP,14158
+Cross River,Ikom,OTHERS,528
 Cross River,Obanliku,APC,10386
 Cross River,Obanliku,PDP,10100
+Cross River,Obanliku,OTHERS,125
 Cross River,Obubra,APC,13371
 Cross River,Obubra,PDP,10945
+Cross River,Obubra,OTHERS,1118
 Cross River,Obudu,APC,21599
 Cross River,Obudu,PDP,12461
+Cross River,Obudu,OTHERS,1258
 Cross River,Odukpani,APC,13622
 Cross River,Odukpani,PDP,3971
+Cross River,Odukpani,OTHERS,1418
 Cross River,Ogoja,APC,16162
 Cross River,Ogoja,PDP,17483
+Cross River,Ogoja,OTHERS,1418
 Cross River,Yakurr,APC,17684
 Cross River,Yakurr,PDP,9208
+Cross River,Yakurr,OTHERS,2922
 Cross River,Yala,APC,24793
 Cross River,Yala,PDP,15793
+Cross River,Yala,OTHERS,1255
 Delta,Aniocha North,APC,4386
 Delta,Aniocha North,LP,1883
 Delta,Aniocha North,PDP,8938
+Delta,Aniocha North,OTHERS,1109
 Delta,Aniocha South,APC,4623
 Delta,Aniocha South,LP,5107
 Delta,Aniocha South,PDP,10032
+Delta,Aniocha South,OTHERS,706
 Delta,Bomadi,APC,4728
 Delta,Bomadi,LP,100
 Delta,Bomadi,PDP,12340
+Delta,Bomadi,OTHERS,391
 Delta,Burutu,APC,11736
 Delta,Burutu,LP,123
 Delta,Burutu,PDP,12641
+Delta,Burutu,OTHERS,462
 Delta,Ethiope East,APC,11600
 Delta,Ethiope East,LP,530
 Delta,Ethiope East,PDP,13030
+Delta,Ethiope East,OTHERS,2654
 Delta,Ethiope West,APC,6758
 Delta,Ethiope West,LP,304
 Delta,Ethiope West,PDP,7065
+Delta,Ethiope West,OTHERS,247
 Delta,Ika North East,APC,4733
 Delta,Ika North East,LP,1990
 Delta,Ika North East,PDP,26760
+Delta,Ika North East,OTHERS,325
 Delta,Ika South,APC,6790
 Delta,Ika South,LP,4495
 Delta,Ika South,PDP,15283
+Delta,Ika South,OTHERS,581
 Delta,Isoko North,APC,10811
 Delta,Isoko North,LP,894
 Delta,Isoko North,PDP,15899
+Delta,Isoko North,OTHERS,728
 Delta,Isoko South,APC,15954
 Delta,Isoko South,LP,492
 Delta,Isoko South,PDP,19963
+Delta,Isoko South,OTHERS,1700
 Delta,Ndokwa East,APC,9044
 Delta,Ndokwa East,LP,251
 Delta,Ndokwa East,PDP,10146
+Delta,Ndokwa East,OTHERS,402
 Delta,Ndokwa West,APC,10252
 Delta,Ndokwa West,LP,935
 Delta,Ndokwa West,PDP,15539
+Delta,Ndokwa West,OTHERS,263
 Delta,Okpe,APC,8679
 Delta,Okpe,LP,1155
 Delta,Okpe,PDP,14544
+Delta,Okpe,OTHERS,649
 Delta,Oshimili North,APC,5327
 Delta,Oshimili North,LP,2183
 Delta,Oshimili North,PDP,35966
+Delta,Oshimili North,OTHERS,1892
 Delta,Oshimili South,APC,4763
 Delta,Oshimili South,LP,10148
 Delta,Oshimili South,PDP,23149
+Delta,Oshimili South,OTHERS,470
 Delta,Patani,APC,4743
 Delta,Patani,LP,85
 Delta,Patani,PDP,6069
+Delta,Patani,OTHERS,286
 Delta,Sapele,APC,12090
 Delta,Sapele,LP,1458
 Delta,Sapele,PDP,15217
+Delta,Sapele,OTHERS,1050
 Delta,Udu,APC,13769
 Delta,Udu,LP,1886
 Delta,Udu,PDP,9746
+Delta,Udu,OTHERS,741
 Delta,Ughelli North,APC,34955
 Delta,Ughelli North,LP,1438
 Delta,Ughelli North,PDP,15198
+Delta,Ughelli North,OTHERS,1641
 Delta,Ughelli South,APC,15620
 Delta,Ughelli South,LP,571
 Delta,Ughelli South,PDP,15513
+Delta,Ughelli South,OTHERS,3116
 Delta,Ukwuani,APC,7591
 Delta,Ukwuani,LP,791
 Delta,Ukwuani,PDP,14640
+Delta,Ukwuani,OTHERS,574
 Delta,Uvwie,APC,12389
 Delta,Uvwie,LP,6340
 Delta,Uvwie,PDP,9776
+Delta,Uvwie,OTHERS,1758
 Delta,Warri North,APC,4165
 Delta,Warri North,LP,205
 Delta,Warri North,PDP,10367
+Delta,Warri North,OTHERS,402
 Delta,Warri South,APC,11569
 Delta,Warri South,LP,3743
 Delta,Warri South,PDP,15299
+Delta,Warri South,OTHERS,1157
 Delta,Warri South West,APC,3770
 Delta,Warri South West,LP,140
 Delta,Warri South West,PDP,7114
+Delta,Warri South West,OTHERS,109
 Ebonyi,Ishielu,AA,7
 Ebonyi,Ishielu,ADC,74
 Ebonyi,Ishielu,ADP,32
@@ -1046,6 +1113,124 @@ Ebonyi,Ebonyi,NRM,11
 Ebonyi,Ebonyi,PDP,3056
 Ebonyi,Ebonyi,SDP,5
 Ebonyi,Ebonyi,YPP,29
+Enugu,Aninri,APC,902
+Enugu,Aninri,APGA,498
+Enugu,Aninri,LP,3431
+Enugu,Aninri,PDP,6520
+Enugu,Aninri,OTHERS,268
+Enugu,Awgu,APC,1175
+Enugu,Awgu,APGA,805
+Enugu,Awgu,LP,5462
+Enugu,Awgu,PDP,10668
+Enugu,Awgu,OTHERS,829
+Enugu,Enugu East,APC,622
+Enugu,Enugu East,APGA,2779
+Enugu,Enugu East,LP,12405
+Enugu,Enugu East,PDP,12803
+Enugu,Enugu East,OTHERS,365
+Enugu,Enugu North,APC,563
+Enugu,Enugu North,APGA,3108
+Enugu,Enugu North,LP,9610
+Enugu,Enugu North,PDP,9333
+Enugu,Enugu North,OTHERS,548
+Enugu,Enugu South,APC,560
+Enugu,Enugu South,APGA,3110
+Enugu,Enugu South,LP,7438
+Enugu,Enugu South,PDP,10557
+Enugu,Enugu South,OTHERS,431
+Enugu,Ezeagu,APC,963
+Enugu,Ezeagu,APGA,300
+Enugu,Ezeagu,LP,5949
+Enugu,Ezeagu,PDP,7576
+Enugu,Ezeagu,OTHERS,253
+Enugu,Igbo Etiti,APC,939
+Enugu,Igbo Etiti,APGA,1259
+Enugu,Igbo Etiti,LP,11941
+Enugu,Igbo Etiti,PDP,8959
+Enugu,Igbo Etiti,OTHERS,572
+Enugu,Igbo Eze North,APC,541
+Enugu,Igbo Eze North,APGA,250
+Enugu,Igbo Eze North,LP,9955
+Enugu,Igbo Eze North,PDP,8738
+Enugu,Igbo Eze North,OTHERS,446
+Enugu,Igbo Eze South,APC,927
+Enugu,Igbo Eze South,APGA,246
+Enugu,Igbo Eze South,LP,9680
+Enugu,Igbo Eze South,PDP,4691
+Enugu,Igbo Eze South,OTHERS,463
+Enugu,Isi Uzo,APC,231
+Enugu,Isi Uzo,APGA,42
+Enugu,Isi Uzo,LP,12518
+Enugu,Isi Uzo,PDP,6381
+Enugu,Isi Uzo,OTHERS,212
+Enugu,Nkanu East,APC,448
+Enugu,Nkanu East,APGA,188
+Enugu,Nkanu East,LP,1855
+Enugu,Nkanu East,PDP,30350
+Enugu,Nkanu East,OTHERS,117
+Enugu,Nkanu West,APC,1676
+Enugu,Nkanu West,APGA,1609
+Enugu,Nkanu West,LP,2577
+Enugu,Nkanu West,PDP,8382
+Enugu,Nkanu West,OTHERS,222
+Enugu,Nsukka,APC,1017
+Enugu,Nsukka,APGA,1309
+Enugu,Nsukka,LP,30294
+Enugu,Nsukka,PDP,10886
+Enugu,Nsukka,OTHERS,911
+Enugu,Oji River,APC,1060
+Enugu,Oji River,APGA,246
+Enugu,Oji River,LP,7747
+Enugu,Oji River,PDP,7365
+Enugu,Oji River,OTHERS,289
+Enugu,Udenu,APC,513
+Enugu,Udenu,APGA,412
+Enugu,Udenu,LP,11315
+Enugu,Udenu,PDP,10148
+Enugu,Udenu,OTHERS,566
+Enugu,Udi,APC,1648
+Enugu,Udi,APGA,1724
+Enugu,Udi,LP,10109
+Enugu,Udi,PDP,13633
+Enugu,Udi,OTHERS,840
+Enugu,Uzo Uwani,APC,1019
+Enugu,Uzo Uwani,APGA,169
+Enugu,Uzo Uwani,LP,5257
+Enugu,Uzo Uwani,PDP,7298
+Enugu,Uzo Uwani,OTHERS,154
+Gombe,Akko,APC,50919
+Gombe,Akko,PDP,36759
+Gombe,Akko,OTHERS,4111
+Gombe,Balanga,APC,25341
+Gombe,Balanga,PDP,20085
+Gombe,Balanga,OTHERS,2091
+Gombe,Billiri,APC,14752
+Gombe,Billiri,PDP,23066
+Gombe,Billiri,OTHERS,4781
+Gombe,Dukku,APC,35207
+Gombe,Dukku,PDP,14181
+Gombe,Dukku,OTHERS,2165
+Gombe,Funakaye,APC,30371
+Gombe,Funakaye,PDP,17332
+Gombe,Funakaye,OTHERS,1018
+Gombe,Gombe,APC,58645
+Gombe,Gombe,PDP,31605
+Gombe,Gombe,OTHERS,6501
+Gombe,Kaltungo,APC,21015
+Gombe,Kaltungo,PDP,21321
+Gombe,Kaltungo,OTHERS,1817
+Gombe,Kwami,APC,33956
+Gombe,Kwami,PDP,17454
+Gombe,Kwami,OTHERS,1581
+Gombe,Nafada,APC,15025
+Gombe,Nafada,PDP,9378
+Gombe,Nafada,OTHERS,701
+Gombe,Shongom,APC,13609
+Gombe,Shongom,PDP,13412
+Gombe,Shongom,OTHERS,1258
+Gombe,Yamaltu/Deba,APC,43981
+Gombe,Yamaltu/Deba,PDP,28538
+Gombe,Yamaltu/Deba,OTHERS,3379
 Jigawa,Auyo,APC,25115
 Jigawa,Auyo,LP,59
 Jigawa,Auyo,NNPP,1400
@@ -1279,6 +1464,18 @@ Kano,Karaye,PDP,77
 Kano,Rano,APC,17090
 Kano,Rano,NNPP,18040
 Kano,Rano,PDP,225
+Kano,Bebeji,APC,14782
+Kano,Bebeji,NNPP,21001
+Kano,Bebeji,PDP,254
+Kano,Bebeji,OTHERS,0
+Kano,Fagge,APC,17457
+Kano,Fagge,NNPP,23015
+Kano,Fagge,PDP,540
+Kano,Fagge,OTHERS,0
+Kano,Tofa,APC,12996
+Kano,Tofa,NNPP,15789
+Kano,Tofa,PDP,183
+Kano,Tofa,OTHERS,0
 Katsina,Dutsin-Ma,APC,23878
 Katsina,Dutsin-Ma,PDP,14328
 Katsina,Dutsin-Ma,LP,27
@@ -1448,6 +1645,76 @@ Katsina,Sandamu,APC,21055
 Katsina,Sandamu,PDP,10641
 Katsina,Sandamu,NNPP,1
 Katsina,Sandamu,PRP,3
+Katsina,Kafur,APC,42660
+Katsina,Kafur,PDP,18733
+Katsina,Kafur,OTHERS,489
+Katsina,Musawa,APC,24632
+Katsina,Musawa,PDP,10118
+Katsina,Musawa,OTHERS,0
+Kwara,Asa,APC,14946
+Kwara,Asa,PDP,11183
+Kwara,Asa,SDP,953
+Kwara,Asa,OTHERS,825
+Kwara,Baruten,APC,28060
+Kwara,Baruten,PDP,7987
+Kwara,Baruten,SDP,1492
+Kwara,Baruten,OTHERS,335
+Kwara,Edu,APC,22485
+Kwara,Edu,PDP,17378
+Kwara,Edu,SDP,374
+Kwara,Edu,OTHERS,1094
+Kwara,Ekiti,APC,6836
+Kwara,Ekiti,PDP,4273
+Kwara,Ekiti,SDP,170
+Kwara,Ekiti,OTHERS,319
+Kwara,Ifelodun,APC,17599
+Kwara,Ifelodun,PDP,9085
+Kwara,Ifelodun,SDP,1559
+Kwara,Ifelodun,OTHERS,763
+Kwara,Ilorin East,APC,23925
+Kwara,Ilorin East,PDP,14500
+Kwara,Ilorin East,SDP,2645
+Kwara,Ilorin East,OTHERS,1100
+Kwara,Ilorin South,APC,20148
+Kwara,Ilorin South,PDP,12096
+Kwara,Ilorin South,SDP,2357
+Kwara,Ilorin South,OTHERS,1348
+Kwara,Ilorin West,APC,46468
+Kwara,Ilorin West,PDP,32372
+Kwara,Ilorin West,SDP,1948
+Kwara,Ilorin West,OTHERS,2970
+Kwara,Irepodun,APC,12860
+Kwara,Irepodun,PDP,7614
+Kwara,Irepodun,SDP,1693
+Kwara,Irepodun,OTHERS,566
+Kwara,Isin,APC,5274
+Kwara,Isin,PDP,3400
+Kwara,Isin,SDP,567
+Kwara,Isin,OTHERS,197
+Kwara,Kaiama,APC,14431
+Kwara,Kaiama,PDP,6297
+Kwara,Kaiama,SDP,624
+Kwara,Kaiama,OTHERS,421
+Kwara,Moro,APC,15161
+Kwara,Moro,PDP,6823
+Kwara,Moro,SDP,1992
+Kwara,Moro,OTHERS,490
+Kwara,Offa,APC,14696
+Kwara,Offa,PDP,6705
+Kwara,Offa,SDP,1289
+Kwara,Offa,OTHERS,841
+Kwara,Oke Ero,APC,7758
+Kwara,Oke Ero,PDP,3768
+Kwara,Oke Ero,SDP,149
+Kwara,Oke Ero,OTHERS,133
+Kwara,Oyun,APC,8991
+Kwara,Oyun,PDP,5465
+Kwara,Oyun,SDP,1068
+Kwara,Oyun,OTHERS,656
+Kwara,Pategi,APC,13813
+Kwara,Pategi,PDP,6544
+Kwara,Pategi,SDP,389
+Kwara,Pategi,OTHERS,230
 Lagos,Agege,APC,35845
 Lagos,Agege,LP,8486
 Lagos,Agege,NNPP,70
@@ -2026,6 +2293,98 @@ Plateau,Bassa,PRP,392
 Plateau,Bassa,SDP,4
 Plateau,Bassa,YPP,65
 Plateau,Bassa,ZLP,11
+Rivers,Abua–Odual,APC,5738
+Rivers,Abua–Odual,PDP,9763
+Rivers,Abua–Odual,SDP,463
+Rivers,Abua–Odual,OTHERS,712
+Rivers,Ahoada East,APC,2650
+Rivers,Ahoada East,PDP,14408
+Rivers,Ahoada East,SDP,2077
+Rivers,Ahoada East,OTHERS,903
+Rivers,Ahoada West,APC,4883
+Rivers,Ahoada West,PDP,6425
+Rivers,Ahoada West,SDP,1063
+Rivers,Ahoada West,OTHERS,775
+Rivers,Akuku-Toru,APC,3724
+Rivers,Akuku-Toru,PDP,6273
+Rivers,Akuku-Toru,SDP,222
+Rivers,Akuku-Toru,OTHERS,931
+Rivers,Andoni,APC,3149
+Rivers,Andoni,PDP,8319
+Rivers,Andoni,SDP,1185
+Rivers,Andoni,OTHERS,618
+Rivers,Asari-Toru,APC,4209
+Rivers,Asari-Toru,PDP,12663
+Rivers,Asari-Toru,SDP,179
+Rivers,Asari-Toru,OTHERS,1271
+Rivers,Bonny,APC,3285
+Rivers,Bonny,PDP,8032
+Rivers,Bonny,SDP,559
+Rivers,Bonny,OTHERS,1571
+Rivers,Degema,APC,3107
+Rivers,Degema,PDP,4437
+Rivers,Degema,SDP,579
+Rivers,Degema,OTHERS,1006
+Rivers,Eleme,APC,2662
+Rivers,Eleme,PDP,8414
+Rivers,Eleme,SDP,2251
+Rivers,Eleme,OTHERS,920
+Rivers,Emohua,APC,5916
+Rivers,Emohua,PDP,20600
+Rivers,Emohua,SDP,805
+Rivers,Emohua,OTHERS,1270
+Rivers,Etche,APC,6408
+Rivers,Etche,PDP,16043
+Rivers,Etche,SDP,2586
+Rivers,Etche,OTHERS,1283
+Rivers,Gokana,APC,7410
+Rivers,Gokana,PDP,17455
+Rivers,Gokana,SDP,13840
+Rivers,Gokana,OTHERS,755
+Rivers,Ikwerre,APC,7503
+Rivers,Ikwerre,PDP,13716
+Rivers,Ikwerre,SDP,1447
+Rivers,Ikwerre,OTHERS,1424
+Rivers,Khana,APC,620
+Rivers,Khana,PDP,9475
+Rivers,Khana,SDP,5846
+Rivers,Khana,OTHERS,494
+Rivers,Obio-Akpor,APC,7361
+Rivers,Obio-Akpor,PDP,45065
+Rivers,Obio-Akpor,SDP,3056
+Rivers,Obio-Akpor,OTHERS,10083
+Rivers,Ogba–Egbema–Ndoni,APC,6811
+Rivers,Ogba–Egbema–Ndoni,PDP,17729
+Rivers,Ogba–Egbema–Ndoni,SDP,3450
+Rivers,Ogba–Egbema–Ndoni,OTHERS,3391
+Rivers,Ogu–Bolo,APC,1524
+Rivers,Ogu–Bolo,PDP,7103
+Rivers,Ogu–Bolo,SDP,310
+Rivers,Ogu–Bolo,OTHERS,528
+Rivers,Okrika,APC,2719
+Rivers,Okrika,PDP,10342
+Rivers,Okrika,SDP,822
+Rivers,Okrika,OTHERS,1719
+Rivers,Omuma,APC,2127
+Rivers,Omuma,PDP,8760
+Rivers,Omuma,SDP,804
+Rivers,Omuma,OTHERS,234
+Rivers,Opobo–Nkoro,APC,1246
+Rivers,Opobo–Nkoro,PDP,11538
+Rivers,Opobo–Nkoro,SDP,159
+Rivers,Opobo–Nkoro,OTHERS,246
+Rivers,Oyigbo,APC,2793
+Rivers,Oyigbo,PDP,9886
+Rivers,Oyigbo,SDP,796
+Rivers,Oyigbo,OTHERS,3086
+Rivers,Port Harcourt,APC,8954
+Rivers,Port Harcourt,PDP,26892
+Rivers,Port Harcourt,SDP,3974
+Rivers,Port Harcourt,OTHERS,6689
+Rivers,Tai,APC,295
+Rivers,Tai,PDP,9276
+Rivers,Tai,SDP,508
+Rivers,Tai,OTHERS,148
 Zamfara,Birnin Magaji,APC,9643
 Zamfara,Birnin Magaji,PDP,8991
 Zamfara,Maradun,APC,24855
@@ -2057,46 +2416,3 @@ Zamfara,Bukkuyum,APC,10321
 Zamfara,Bukkuyum,PDP,24341
 Zamfara,Anka,APC,10156
 Zamfara,Anka,PDP,17116
-Cross River,Abi,OTHERS,659
-Cross River,Akamkpa,OTHERS,262
-Cross River,Akpabuyo,OTHERS,461
-Cross River,Bakassi,OTHERS,46
-Cross River,Bekwarra,OTHERS,611
-Cross River,Biase,OTHERS,387
-Cross River,Boki,OTHERS,520
-Cross River,Calabar Municipal,OTHERS,1674
-Cross River,Calabar South,OTHERS,951
-Cross River,Etung,OTHERS,152
-Cross River,Ikom,OTHERS,528
-Cross River,Obanliku,OTHERS,125
-Cross River,Obubra,OTHERS,1118
-Cross River,Obudu,OTHERS,1258
-Cross River,Odukpani,OTHERS,1418
-Cross River,Ogoja,OTHERS,1418
-Cross River,Yakurr,OTHERS,2922
-Cross River,Yala,OTHERS,1255
-Delta,Aniocha North,OTHERS,1109
-Delta,Aniocha South,OTHERS,706
-Delta,Bomadi,OTHERS,391
-Delta,Burutu,OTHERS,462
-Delta,Ethiope East,OTHERS,2654
-Delta,Ethiope West,OTHERS,247
-Delta,Ika North East,OTHERS,325
-Delta,Ika South,OTHERS,581
-Delta,Isoko North,OTHERS,728
-Delta,Isoko South,OTHERS,1700
-Delta,Ndokwa East,OTHERS,402
-Delta,Ndokwa West,OTHERS,263
-Delta,Okpe,OTHERS,649
-Delta,Oshimili North,OTHERS,1892
-Delta,Oshimili South,OTHERS,470
-Delta,Patani,OTHERS,286
-Delta,Sapele,OTHERS,1050
-Delta,Udu,OTHERS,741
-Delta,Ughelli North,OTHERS,1641
-Delta,Ughelli South,OTHERS,3116
-Delta,Ukwuani,OTHERS,574
-Delta,Uvwie,OTHERS,1758
-Delta,Warri North,OTHERS,402
-Delta,Warri South,OTHERS,1157
-Delta,Warri South West,OTHERS,109
