@@ -818,6 +818,117 @@ Borno,Askira/Uba,LP,66
 Borno,Marte,APC,12081
 Borno,Marte,PDP,57
 Borno,Marte,LP,0
+Cross River,Abi,APC,9861
+Cross River,Abi,PDP,8816
+Cross River,Akamkpa,APC,10529
+Cross River,Akamkpa,PDP,6935
+Cross River,Akpabuyo,APC,10410
+Cross River,Akpabuyo,PDP,5938
+Cross River,Bakassi,APC,1632
+Cross River,Bakassi,PDP,316
+Cross River,Bekwarra,APC,11839
+Cross River,Bekwarra,PDP,12129
+Cross River,Biase,APC,11626
+Cross River,Biase,PDP,7079
+Cross River,Boki,APC,17355
+Cross River,Boki,PDP,15303
+Cross River,Calabar Municipal,APC,20320
+Cross River,Calabar Municipal,PDP,15882
+Cross River,Calabar South,APC,28340
+Cross River,Calabar South,PDP,7980
+Cross River,Etung,APC,5205
+Cross River,Etung,PDP,5139
+Cross River,Ikom,APC,12883
+Cross River,Ikom,PDP,14158
+Cross River,Obanliku,APC,10386
+Cross River,Obanliku,PDP,10100
+Cross River,Obubra,APC,13371
+Cross River,Obubra,PDP,10945
+Cross River,Obudu,APC,21599
+Cross River,Obudu,PDP,12461
+Cross River,Odukpani,APC,13622
+Cross River,Odukpani,PDP,3971
+Cross River,Ogoja,APC,16162
+Cross River,Ogoja,PDP,17483
+Cross River,Yakurr,APC,17684
+Cross River,Yakurr,PDP,9208
+Cross River,Yala,APC,24793
+Cross River,Yala,PDP,15793
+Delta,Aniocha North,APC,4386
+Delta,Aniocha North,LP,1883
+Delta,Aniocha North,PDP,8938
+Delta,Aniocha South,APC,4623
+Delta,Aniocha South,LP,5107
+Delta,Aniocha South,PDP,10032
+Delta,Bomadi,APC,4728
+Delta,Bomadi,LP,100
+Delta,Bomadi,PDP,12340
+Delta,Burutu,APC,11736
+Delta,Burutu,LP,123
+Delta,Burutu,PDP,12641
+Delta,Ethiope East,APC,11600
+Delta,Ethiope East,LP,530
+Delta,Ethiope East,PDP,13030
+Delta,Ethiope West,APC,6758
+Delta,Ethiope West,LP,304
+Delta,Ethiope West,PDP,7065
+Delta,Ika North East,APC,4733
+Delta,Ika North East,LP,1990
+Delta,Ika North East,PDP,26760
+Delta,Ika South,APC,6790
+Delta,Ika South,LP,4495
+Delta,Ika South,PDP,15283
+Delta,Isoko North,APC,10811
+Delta,Isoko North,LP,894
+Delta,Isoko North,PDP,15899
+Delta,Isoko South,APC,15954
+Delta,Isoko South,LP,492
+Delta,Isoko South,PDP,19963
+Delta,Ndokwa East,APC,9044
+Delta,Ndokwa East,LP,251
+Delta,Ndokwa East,PDP,10146
+Delta,Ndokwa West,APC,10252
+Delta,Ndokwa West,LP,935
+Delta,Ndokwa West,PDP,15539
+Delta,Okpe,APC,8679
+Delta,Okpe,LP,1155
+Delta,Okpe,PDP,14544
+Delta,Oshimili North,APC,5327
+Delta,Oshimili North,LP,2183
+Delta,Oshimili North,PDP,35966
+Delta,Oshimili South,APC,4763
+Delta,Oshimili South,LP,10148
+Delta,Oshimili South,PDP,23149
+Delta,Patani,APC,4743
+Delta,Patani,LP,85
+Delta,Patani,PDP,6069
+Delta,Sapele,APC,12090
+Delta,Sapele,LP,1458
+Delta,Sapele,PDP,15217
+Delta,Udu,APC,13769
+Delta,Udu,LP,1886
+Delta,Udu,PDP,9746
+Delta,Ughelli North,APC,34955
+Delta,Ughelli North,LP,1438
+Delta,Ughelli North,PDP,15198
+Delta,Ughelli South,APC,15620
+Delta,Ughelli South,LP,571
+Delta,Ughelli South,PDP,15513
+Delta,Ukwuani,APC,7591
+Delta,Ukwuani,LP,791
+Delta,Ukwuani,PDP,14640
+Delta,Uvwie,APC,12389
+Delta,Uvwie,LP,6340
+Delta,Uvwie,PDP,9776
+Delta,Warri North,APC,4165
+Delta,Warri North,LP,205
+Delta,Warri North,PDP,10367
+Delta,Warri South,APC,11569
+Delta,Warri South,LP,3743
+Delta,Warri South,PDP,15299
+Delta,Warri South West,APC,3770
+Delta,Warri South West,LP,140
+Delta,Warri South West,PDP,7114
 Ebonyi,Ishielu,AA,7
 Ebonyi,Ishielu,ADC,74
 Ebonyi,Ishielu,ADP,32
@@ -1946,3 +2057,46 @@ Zamfara,Bukkuyum,APC,10321
 Zamfara,Bukkuyum,PDP,24341
 Zamfara,Anka,APC,10156
 Zamfara,Anka,PDP,17116
+Cross River,Abi,OTHERS,659
+Cross River,Akamkpa,OTHERS,262
+Cross River,Akpabuyo,OTHERS,461
+Cross River,Bakassi,OTHERS,46
+Cross River,Bekwarra,OTHERS,611
+Cross River,Biase,OTHERS,387
+Cross River,Boki,OTHERS,520
+Cross River,Calabar Municipal,OTHERS,1674
+Cross River,Calabar South,OTHERS,951
+Cross River,Etung,OTHERS,152
+Cross River,Ikom,OTHERS,528
+Cross River,Obanliku,OTHERS,125
+Cross River,Obubra,OTHERS,1118
+Cross River,Obudu,OTHERS,1258
+Cross River,Odukpani,OTHERS,1418
+Cross River,Ogoja,OTHERS,1418
+Cross River,Yakurr,OTHERS,2922
+Cross River,Yala,OTHERS,1255
+Delta,Aniocha North,OTHERS,1109
+Delta,Aniocha South,OTHERS,706
+Delta,Bomadi,OTHERS,391
+Delta,Burutu,OTHERS,462
+Delta,Ethiope East,OTHERS,2654
+Delta,Ethiope West,OTHERS,247
+Delta,Ika North East,OTHERS,325
+Delta,Ika South,OTHERS,581
+Delta,Isoko North,OTHERS,728
+Delta,Isoko South,OTHERS,1700
+Delta,Ndokwa East,OTHERS,402
+Delta,Ndokwa West,OTHERS,263
+Delta,Okpe,OTHERS,649
+Delta,Oshimili North,OTHERS,1892
+Delta,Oshimili South,OTHERS,470
+Delta,Patani,OTHERS,286
+Delta,Sapele,OTHERS,1050
+Delta,Udu,OTHERS,741
+Delta,Ughelli North,OTHERS,1641
+Delta,Ughelli South,OTHERS,3116
+Delta,Ukwuani,OTHERS,574
+Delta,Uvwie,OTHERS,1758
+Delta,Warri North,OTHERS,402
+Delta,Warri South,OTHERS,1157
+Delta,Warri South West,OTHERS,109
