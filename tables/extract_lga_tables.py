@@ -30,7 +30,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from extract_tables import classify, contains_tbd, flatten_col, to_number
+from extract_tables import classify, contains_tbd, flatten_col, to_number, to_vote_count
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 SOURCE_DIR = SCRIPT_DIR.parent / "downloaded_source"
@@ -73,7 +73,7 @@ def extract_lga_rows(table: pd.DataFrame) -> list[dict]:
             pct_col = metrics.get("Percentage") or metrics.get("%")
             if votes_col is None:
                 continue
-            votes = to_number(r.get(votes_col))
+            votes = to_vote_count(r.get(votes_col))
             if votes is None:
                 continue
             if block == "Others":

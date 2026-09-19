@@ -1,6 +1,6 @@
 # Table extraction report
 
-174 source files processed, 0 unclassified, 86 issues flagged.
+174 source files processed, 0 unclassified, 102 issues flagged.
 
 ## Issues
 - 2019_Bauchi_State_gubernatorial_election.html: no results table, breakdown table, or infobox found (needs manual review)
@@ -13,17 +13,26 @@
 - 2023_Adamawa_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Akwa_Ibom_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Borno_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Cross_River_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Bassey Otu APC': printed=258619.0, sum=267499.0 -- used the sum
+- 2023_Cross_River_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Sandy Ojang Onor PDP': printed=179636.0, sum=194473.0 -- used the sum
+- 2023_Cross_River_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Others': printed=13678.0, sum=14667.0 -- used the sum
+- 2023_Delta_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Ken Pela LP': printed=48027.0, sum=47247.0 -- used the sum
 - 2023_Ebonyi_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Enugu_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Uche Nnaji APC': printed=14575.0, sum=14804.0 -- used the sum
+- 2023_Enugu_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Peter Mbah PDP': printed=160895.0, sum=174288.0 -- used the sum
 - 2023_Imo_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Jigawa_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Kaduna_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Kano_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Nasir Yusuf Gawuna APC': printed=890705.0, sum=915493.0 -- used the sum
+- 2023_Kano_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Abba Kabir Yusuf NNPP': printed=1019602.0, sum=992203.0 -- used the sum
 - 2023_Kebbi_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Kogi_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Kwara_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Hakeem Lawal SDP': printed=18922.0, sum=19269.0 -- used the sum
+- 2023_Kwara_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Others': printed=12661.0, sum=12288.0 -- used the sum
 - 2023_Lagos_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nasarawa_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Niger_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Abia_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
-- 2023_Nigerian_presidential_election_in_Adamawa_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Akwa_Ibom_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Benue_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Borno_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
@@ -38,6 +47,11 @@
 - 2023_Nigerian_presidential_election_in_Kebbi_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Kogi_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Kwara_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Nigerian_presidential_election_in_Lagos_State.html: breakdown Totals row disagreed with district-row sum for 'Bola Tinubu APC': printed=572606.0, sum=556535.0 -- used the sum
+- 2023_Nigerian_presidential_election_in_Lagos_State.html: breakdown Totals row disagreed with district-row sum for 'Atiku Abubakar PDP': printed=75750.0, sum=74821.0 -- used the sum
+- 2023_Nigerian_presidential_election_in_Lagos_State.html: breakdown Totals row disagreed with district-row sum for 'Peter Obi LP': printed=582454.0, sum=567427.0 -- used the sum
+- 2023_Nigerian_presidential_election_in_Lagos_State.html: breakdown Totals row disagreed with district-row sum for 'Rabiu Kwankwaso NNPP': printed=8442.0, sum=8314.0 -- used the sum
+- 2023_Nigerian_presidential_election_in_Lagos_State.html: breakdown Totals row disagreed with district-row sum for 'Others': printed=32199.0, sum=31522.0 -- used the sum
 - 2023_Nigerian_presidential_election_in_Nasarawa_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Niger_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Nigerian_presidential_election_in_Ogun_State.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
@@ -89,3 +103,5 @@
 - 2023_Sokoto_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Taraba_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
 - 2023_Yobe_State_gubernatorial_election.html: no usable results/breakdown table, used infobox fallback (3 candidates only)
+- 2023_Zamfara_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Bello Matawalle APC': printed=377726.0, sum=311976.0 -- used the sum
+- 2023_Zamfara_State_gubernatorial_election.html: breakdown Totals row disagreed with district-row sum for 'Dauda Lawal PDP': printed=311976.0, sum=377726.0 -- used the sum

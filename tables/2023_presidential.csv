@@ -2,9 +2,10 @@ state,candidate,party,votes,percent,source
 Abia,Rabiu Kwankwaso,NNPP,,,infobox
 Abia,Atiku Abubakar,PDP,,,infobox
 Abia,,,,,infobox
-Adamawa,Rabiu Kwankwaso,NNPP,,,infobox
-Adamawa,Atiku Abubakar,PDP,,,infobox
-Adamawa,,,,,infobox
+Adamawa,Bola Tinubu,APC,158121.0,,breakdown_total_row
+Adamawa,Atiku Abubakar,PDP,369563.0,,breakdown_total_row
+Adamawa,Peter Obi,LP,94723.0,,breakdown_total_row
+Adamawa,Rabiu Kwankwaso,NNPP,6936.0,,breakdown_total_row
 Akwa Ibom,Rabiu Kwankwaso,NNPP,,,infobox
 Akwa Ibom,Atiku Abubakar,PDP,,,infobox
 Akwa Ibom,,,,,infobox
@@ -106,11 +107,11 @@ Kogi,,,,,infobox
 Kwara,Peter Obi,LP,,6.64,infobox
 Kwara,Rabiu Kwankwaso,New Nigeria Peoples Party,,0.67,infobox
 Kwara,,,,,infobox
-Lagos,Bola Tinubu,APC,572606.0,45.04,breakdown_total_row
-Lagos,Atiku Abubakar,PDP,75750.0,5.96,breakdown_total_row
-Lagos,Peter Obi,LP,582454.0,45.81,breakdown_total_row
-Lagos,Rabiu Kwankwaso,NNPP,8442.0,0.66,breakdown_total_row
-Lagos,Other candidates,,32199.0,2.53,breakdown_total_row
+Lagos,Bola Tinubu,APC,556535.0,45.04,breakdown_total_row
+Lagos,Atiku Abubakar,PDP,74821.0,5.96,breakdown_total_row
+Lagos,Peter Obi,LP,567427.0,45.81,breakdown_total_row
+Lagos,Rabiu Kwankwaso,NNPP,8314.0,0.66,breakdown_total_row
+Lagos,Other candidates,,31522.0,2.53,breakdown_total_row
 Nasarawa,Atiku Abubakar,PDP,,27.21,infobox
 Nasarawa,Rabiu Kwankwaso,New Nigeria Peoples Party,,2.35,infobox
 Nasarawa,,,,,infobox

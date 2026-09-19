@@ -95,6 +95,23 @@ def to_number(value) -> float | None:
         return None
 
 
+def to_vote_count(value) -> float | None:
+    """Like to_number, but for cells that must be whole vote counts. Wikipedia
+    tables occasionally render a thousands-separator comma as a period (e.g.
+    Rivers 2023's Port Harcourt LGA row prints "8.954" where every neighboring
+    row uses plain "8954"-style integers, and the LGA's own total only balances
+    if it's read as 8,954) -- any decimal point surviving in a votes cell is
+    itself the signal that this happened, since real vote counts are never
+    fractional, so it's reconstructed as a plain integer instead of a fraction."""
+    n = to_number(value)
+    if n is None or n == int(n):
+        return n
+    s = str(value).replace(",", "").strip()
+    if re.match(r"^\d+\.\d+$", s):
+        return float(s.replace(".", ""))
+    return n
+
+
 def flatten_col(col) -> str:
     return str(col[0] if isinstance(col, tuple) else col)
 
@@ -175,21 +192,32 @@ def best_results_table(tables: list[pd.DataFrame]) -> list[dict]:
     return candidates[0][1]
 
 
-def find_breakdown_totals_row(tables: list[pd.DataFrame]) -> list[dict]:
+def find_breakdown_totals_row(tables: list[pd.DataFrame], issues: list[str] | None = None,
+                               file_label: str = "") -> list[dict]:
     """Tier 1: melt a wide geographic-breakdown table's 'Totals' row into
-    per-candidate rows, trying the coarsest available level first."""
+    per-candidate rows, trying the coarsest available level first.
+
+    Cross-checks the printed Totals row against the sum of the district rows
+    above it. Wikipedia's own totals row is occasionally wrong -- e.g. Zamfara
+    2023's governor table has Matawalle's and Lawal's totals transposed
+    relative to both the district-row sum and the correct (DB-verified)
+    result -- so whenever the two disagree, the summed value is trusted
+    instead of the printed one, and it's noted in `issues` for visibility."""
     for level in BREAKDOWN_LEVELS:
         for t in tables:
             cols = [flatten_col(c) for c in t.columns]
             if not cols or cols[0] != level:
                 continue
 
-            total_row = None
             first_col = t.columns[0]
+            total_row = None
+            district_rows = []
             for _, r in t.iterrows():
                 label = str(r.get(first_col)).strip().lower()
                 if label in ("totals", "total"):
                     total_row = r
+                elif label not in ("nan", ""):
+                    district_rows.append(r)
             if total_row is None:
                 continue
 
@@ -209,9 +237,25 @@ def find_breakdown_totals_row(tables: list[pd.DataFrame]) -> list[dict]:
                 pct_col = metrics.get("Percentage") or metrics.get("%")
                 if votes_col is None:
                     continue
-                votes = to_number(total_row.get(votes_col))
+
+                printed = to_vote_count(total_row.get(votes_col))
+                summed = None
+                if district_rows:
+                    values = [to_vote_count(r.get(votes_col)) for r in district_rows]
+                    if values and all(v is not None for v in values):
+                        summed = sum(values)
+
+                votes = printed if printed is not None else summed
+                if summed is not None and printed is not None and abs(summed - printed) > max(1.0, 0.01 * summed):
+                    votes = summed
+                    if issues is not None:
+                        issues.append(
+                            f"{file_label}: breakdown Totals row disagreed with district-row sum for {block!r}: "
+                            f"printed={printed}, sum={summed} -- used the sum"
+                        )
                 if votes is None:
                     continue
+
                 if block == "Others":
                     candidate, party = "Other candidates", None
                 else:
@@ -426,7 +470,7 @@ def process_file(path: Path, office: str, year: str, state: str, issues: list[st
         return []
 
     # governor / presidential-per-state
-    rows = find_breakdown_totals_row(tables)
+    rows = find_breakdown_totals_row(tables, issues, path.name)
     if rows:
         for r in rows:
             r["state"], r["source"] = state, "breakdown_total_row"
